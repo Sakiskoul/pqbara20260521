@@ -1,0 +1,58 @@
+﻿Scope,Section,Subsection,High,Medium,Low,Total
+ALL,,,0,114,121,235
+SECTION,,,0,1,0,1
+SECTION,A Layered View of the Post-Quantum Migration Problem,,0,0,1,1
+SECTION,A Layered View of the Post-Quantum Migration Problem,Cross-layer dependency map,0,0,3,3
+SECTION,A Layered View of the Post-Quantum Migration Problem,Layer 1: Transaction authorization and wallet/account layer,0,3,2,5
+SECTION,A Layered View of the Post-Quantum Migration Problem,"Layer 2: Validator, consensus, and governance identity",0,2,3,5
+SECTION,A Layered View of the Post-Quantum Migration Problem,"Layer 3: Node trust, PKI, and secure communication channels",0,2,1,3
+SECTION,A Layered View of the Post-Quantum Migration Problem,"Layer 4: Smart contracts, DeFi, and application-layer trust",0,2,5,7
+SECTION,A Layered View of the Post-Quantum Migration Problem,"Layer 5: Privacy, ZK systems, and verifiable computation",0,11,1,12
+SECTION,A Layered View of the Post-Quantum Migration Problem,"Layer 6: Off-chain artifacts, exports, backups, and long-lived evidence",0,1,1,2
+SECTION,Background: Quantum Risk and Blockchain Dependence on Cryptography,Cryptographic dependency map of blockchain systems,0,1,3,4
+SECTION,Background: Quantum Risk and Blockchain Dependence on Cryptography,Migration urgency and realistic timelines,0,2,0,2
+SECTION,Background: Quantum Risk and Blockchain Dependence on Cryptography,Quantum Threat Model,0,2,6,8
+SECTION,Conclusions,,0,7,0,7
+SECTION,Crypto-Agility as a Blockchain Engineering Requirement,Agility patterns in public blockchains,0,2,0,2
+SECTION,Crypto-Agility as a Blockchain Engineering Requirement,Algorithm versioning and interoperability,0,0,2,2
+SECTION,Crypto-Agility as a Blockchain Engineering Requirement,Failure modes of poor crypto-agility,0,0,2,2
+SECTION,Crypto-Agility as a Blockchain Engineering Requirement,Key lifecycle management,0,1,0,1
+SECTION,Crypto-Agility as a Blockchain Engineering Requirement,What crypto-agility means in blockchain systems,0,1,0,1
+SECTION,Evidence-Centric Design Patterns for the Post-Quantum Era,Evidence verification across migration phases,0,0,2,2
+SECTION,Evidence-Centric Design Patterns for the Post-Quantum Era,Ledger-anchored audit evidence,0,0,1,1
+SECTION,Evidence-Centric Design Patterns for the Post-Quantum Era,"Reference design pattern: seal, anchor, verify, rotate",0,1,2,3
+SECTION,Evidence-Centric Design Patterns for the Post-Quantum Era,Sealed artifacts and cryptographic envelopes,0,0,1,1
+SECTION,Evidence-Centric Design Patterns for the Post-Quantum Era,Why evidence-centric design matters,0,2,2,4
+SECTION,Introduction,Main contributions of this review,0,2,1,3
+SECTION,Introduction,Motivation and problem statement,0,0,1,1
+SECTION,Introduction,Paper organization,0,1,0,1
+SECTION,Introduction,Research questions,0,1,0,1
+SECTION,Introduction,Review methodology,0,8,6,14
+SECTION,Introduction,Scope and boundaries,0,1,1,2
+SECTION,Introduction,Why a new review is needed,0,3,24,27
+SECTION,Open Challenges and Research Directions,Dormant users and legacy assets,0,2,2,4
+SECTION,Open Challenges and Research Directions,Evidence survivability and archival verification,0,0,3,3
+SECTION,Open Challenges and Research Directions,Interoperability and standards maturity,0,1,1,2
+SECTION,Open Challenges and Research Directions,PQ migration of consensus-specific mechanisms,0,2,1,3
+SECTION,Open Challenges and Research Directions,Policy and governance questions,0,2,3,5
+SECTION,Open Challenges and Research Directions,Post-quantum ZK efficiency gap,0,3,0,3
+SECTION,Operational Trade-offs and Migration Patterns,Consensus and validator-side costs,0,3,0,3
+SECTION,Operational Trade-offs and Migration Patterns,Migration patterns,0,1,1,2
+SECTION,Operational Trade-offs and Migration Patterns,Smart contract and DeFi migration complexity,0,3,0,3
+SECTION,Operational Trade-offs and Migration Patterns,"Storage, bandwidth, and verification trade-offs",0,2,0,2
+SECTION,Operational Trade-offs and Migration Patterns,Trade-off matrix,0,1,2,3
+SECTION,Operational Trade-offs and Migration Patterns,Wallet and user-side operational burden,0,1,1,2
+SECTION,Post-Quantum Building Blocks by Operational Role,,0,3,0,3
+SECTION,Post-Quantum Building Blocks by Operational Role,Comparative synthesis by layer,0,1,1,2
+SECTION,Post-Quantum Building Blocks by Operational Role,"Hashes, commitments, Merkle structures, and long-term integrity",0,1,1,2
+SECTION,Post-Quantum Building Blocks by Operational Role,KEMs and confidentiality protection for blockchain-adjacent systems,0,4,9,13
+SECTION,Post-Quantum Building Blocks by Operational Role,PQ-favorable and PQ-exposed ZK choices,0,3,0,3
+SECTION,Post-Quantum Building Blocks by Operational Role,"Randomness, VRFs, and beacon mechanisms",0,3,3,6
+SECTION,Post-Quantum Building Blocks by Operational Role,Signature schemes for blockchain migration,0,11,9,20
+SECTION,Review Validity and Limitations,,0,5,0,5
+SECTION,Toward a Reference Migration Blueprint,Design goals of a deployable migration blueprint,0,3,0,3
+SECTION,Toward a Reference Migration Blueprint,Mapping the blueprint to blockchain deployment scenarios,0,2,8,10
+SECTION,Toward a Reference Migration Blueprint,Practical benchmark dimensions,0,0,2,2
+SECTION,Toward a Reference Migration Blueprint,Reference architecture,0,0,3,3
+
+

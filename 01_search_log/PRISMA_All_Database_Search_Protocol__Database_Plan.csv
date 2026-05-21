@@ -1,0 +1,8 @@
+﻿Source,Status,Role,Action,Export Folder,Methodological Note;
+Scopus,Completed pilot/source,Primary multidisciplinary database,Keep current exports; later merge with all other database exports,02_Scopus_Exports,Current dedup/screening counts are Scopus-only interim.
+IEEE Xplore,Next,Primary engineering/security database,Run IEEE-S1 to IEEE-S5 and export CSV/RIS/BibTeX if available,02_IEEE_Xplore_Exports,Important for IEEE conference/journal blockchain/PQC work.;
+ACM Digital Library,Next,Primary computing/security database,Run ACM-S1 to ACM-S5 and export citations/query syntax,02_ACM_DL_Exports,Use ACM Guide to Computing Literature if full coverage is needed.;
+;
+Google Scholar,Supplementary,Grey/citation discovery,Use bounded GS-S1 to GS-S5 and record stopping rule,02_GoogleScholar_Exports,Harder to reproduce; keep as supplementary source.
+Backward/forward citation chasing,After preliminary included studies,Snowballing,Track source paper and reason for each added record,02_Citation_Chasing,Report separately in PRISMA as records identified by other methods.;
+"Standards/specs/BIPs/EIPs/NIST/IETF,Contextual evidence,Standards/background,Track separately from peer-reviewed corpus,02_Standards_Context,""Use in narrative rewrite, but do not count as peer-reviewed database studies unless planned.""";

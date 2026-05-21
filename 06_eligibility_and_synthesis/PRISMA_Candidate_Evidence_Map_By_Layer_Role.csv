@@ -1,0 +1,56 @@
+﻿Layer_Tag,Evidence_Role,Records
+Cross-layer/system architecture,Threat/dependency mapping,8
+Cross-layer/system architecture,Operational trade-off/benchmark,6
+Cross-layer/system architecture,PQC primitive/protocol mapping,6
+Cross-layer/system architecture,Prior survey/comparison,4
+Cross-layer/system architecture,Background only,3
+Cross-layer/system architecture,Governance/interoperability/standards,3
+Cross-layer/system architecture,Migration/crypto-agility design,3
+Evidence/audit/archival verification,Evidence preservation pattern,10
+Evidence/audit/archival verification,PQC primitive/protocol mapping,7
+Evidence/audit/archival verification,Operational trade-off/benchmark,1
+Evidence/audit/archival verification,Prior survey/comparison,1
+General/background,Operational trade-off/benchmark,3
+General/background,PQC primitive/protocol mapping,3
+General/background,Background only,2
+General/background,Prior survey/comparison,2
+General/background,Threat/dependency mapping,2
+General/background,Governance/interoperability/standards,1
+General/background,Migration/crypto-agility design,1
+Node trust/PKI/secure communication,PQC primitive/protocol mapping,84
+Node trust/PKI/secure communication,Migration/crypto-agility design,32
+Node trust/PKI/secure communication,Operational trade-off/benchmark,5
+Node trust/PKI/secure communication,Background only,3
+Node trust/PKI/secure communication,Governance/interoperability/standards,2
+Node trust/PKI/secure communication,Prior survey/comparison,2
+Node trust/PKI/secure communication,Threat/dependency mapping,2
+Node trust/PKI/secure communication,Evidence preservation pattern,1
+Smart contracts/DeFi/bridges,PQC primitive/protocol mapping,27
+Smart contracts/DeFi/bridges,Migration/crypto-agility design,5
+Smart contracts/DeFi/bridges,Evidence preservation pattern,4
+Smart contracts/DeFi/bridges,Governance/interoperability/standards,4
+Smart contracts/DeFi/bridges,Operational trade-off/benchmark,4
+Smart contracts/DeFi/bridges,Background only,3
+Smart contracts/DeFi/bridges,Prior survey/comparison,2
+Smart contracts/DeFi/bridges,Threat/dependency mapping,1
+Transaction/wallet/account authorization,PQC primitive/protocol mapping,31
+Transaction/wallet/account authorization,Migration/crypto-agility design,12
+Transaction/wallet/account authorization,Operational trade-off/benchmark,11
+Transaction/wallet/account authorization,Threat/dependency mapping,6
+Transaction/wallet/account authorization,Governance/interoperability/standards,4
+Transaction/wallet/account authorization,Prior survey/comparison,4
+Transaction/wallet/account authorization,Background only,2
+Validator/consensus/governance,PQC primitive/protocol mapping,73
+Validator/consensus/governance,Migration/crypto-agility design,34
+Validator/consensus/governance,Operational trade-off/benchmark,17
+Validator/consensus/governance,Governance/interoperability/standards,11
+Validator/consensus/governance,Threat/dependency mapping,6
+Validator/consensus/governance,Prior survey/comparison,5
+Validator/consensus/governance,Background only,4
+Validator/consensus/governance,Evidence preservation pattern,4
+ZK/privacy/verifiable computation,PQC primitive/protocol mapping,172
+ZK/privacy/verifiable computation,ZK/privacy redesign,70
+ZK/privacy/verifiable computation,Migration/crypto-agility design,57
+ZK/privacy/verifiable computation,Prior survey/comparison,1
+
+

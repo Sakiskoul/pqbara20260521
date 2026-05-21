@@ -1,0 +1,176 @@
+﻿Search ID,Database,Search date,Exact query,Filters applied,Raw results,Results after filters,Export filename,Notes
+"S1,Scopus,2026-05-12 00:00:00,""TITLE-ABS-KEY ((blockchain OR """"distributed ledger"""" OR DLT OR cryptocurrency OR bitcoin OR ethereum) AND (""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR """"quantum attack*"""" OR """"quantum threat*"""" OR """"quantum computer*""""))"",""Year: 2018–2026"
+Language: English
+"Document type: Article, Conference Paper, Review, Book Chapter"",1615,1426,S1_scopus_filtered.csv,Broad search for blockchain/DLT and post-quantum or quantum-risk terminology"
+"S2,Scopus,2026-05-12 00:00:00,""TITLE-ABS-KEY ("
+"  (blockchain OR """"distributed ledger"""" OR DLT OR cryptocurrency OR bitcoin OR ethereum)"
+  AND
+"  (""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""")"
+  AND
+"  (migration OR transition OR """"crypto-agility"""" OR """"cryptographic agility"""" OR """"key rotation"""" OR hybrid OR upgrade OR interoperability)"
+")"",""Year: 2018–2026"
+Language: English
+"Document type: Article, Conference Paper, Review, Book Chapter"",317,288,S2_scopus_filtered.csv,"
+"S3,Scopus,2026-05-12 00:00:00,""TITLE-ABS-KEY ("
+"  (blockchain OR """"distributed ledger"""" OR DLT OR bitcoin OR ethereum OR validator* OR consensus)"
+  AND
+"  (""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""")"
+  AND
+"  (signature* OR authentication OR ECDSA OR EdDSA OR BLS OR """"digital signature*"""" OR wallet* OR account*)"
+")"",""Year: 2018–2026"
+Language: English
+"Document type: Article, Conference Paper, Review, Book Chapter"",722,637,S3_scopus_filtered.csv,"
+"S4,Scopus,2026-05-12 00:00:00,""TITLE-ABS-KEY ("
+"  (blockchain OR ethereum OR """"smart contract*"""" OR DeFi OR """"zero knowledge"""" OR zkSNARK OR zk-SNARK OR STARK OR rollup*)"
+  AND
+"  (""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR """"quantum attack*"""")"
+")"",""Year: 2018–2026"
+Language: English
+"Document type: Article, Conference Paper, Review, Book Chapter"",1683,1480,S4_scopus_filtered.csv,"
+"S5,Scopus,2026-05-12 00:00:00,""TITLE-ABS-KEY ("
+"  (blockchain OR """"distributed ledger"""" OR DLT)"
+  AND
+"  (""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR cryptographic)"
+  AND
+"  (evidence OR archival OR archive OR """"long-term validation"""" OR timestamp* OR audit* OR preservation OR """"digital evidence"""")"
+")"",""Year: 2018–2026"
+Language: English
+"Document type: Article, Conference Paper, Review, Book Chapter"",991,924,S5_scopus_filtered.csv,"
+"S1,IEEE,2026-05-12 00:00:00,""("
+"  (""""Document Title"""":blockchain OR """"Document Title"""":""""distributed ledger"""" OR """"Document Title"""":DLT OR """"Document Title"""":cryptocurrency OR """"Document Title"""":bitcoin OR """"Document Title"""":ethereum"
+"   OR """"Abstract"""":blockchain OR """"Abstract"""":""""distributed ledger"""" OR """"Abstract"""":DLT OR """"Abstract"""":cryptocurrency OR """"Abstract"""":bitcoin OR """"Abstract"""":ethereum"
+"   OR """"Index Terms"""":blockchain OR """"Index Terms"""":""""distributed ledger"""" OR """"Index Terms"""":DLT OR """"Index Terms"""":cryptocurrency OR """"Index Terms"""":bitcoin OR """"Index Terms"""":ethereum)"
+)
+AND
+(
+"  (""""Document Title"""":""""post-quantum"""" OR """"Document Title"""":""""quantum-resistant"""" OR """"Document Title"""":""""quantum-safe"""" OR """"Document Title"""":""""quantum attack"""" OR """"Document Title"""":""""quantum attacks"""" OR """"Document Title"""":""""quantum threat"""" OR """"Document Title"""":""""quantum threats"""" OR """"Document Title"""":""""quantum computer"""" OR """"Document Title"""":""""quantum computers"""" OR """"Document Title"""":""""quantum computing"""""
+"   OR """"Abstract"""":""""post-quantum"""" OR """"Abstract"""":""""quantum-resistant"""" OR """"Abstract"""":""""quantum-safe"""" OR """"Abstract"""":""""quantum attack"""" OR """"Abstract"""":""""quantum attacks"""" OR """"Abstract"""":""""quantum threat"""" OR """"Abstract"""":""""quantum threats"""" OR """"Abstract"""":""""quantum computer"""" OR """"Abstract"""":""""quantum computers"""" OR """"Abstract"""":""""quantum computing"""""
+"   OR """"Index Terms"""":""""post-quantum"""" OR """"Index Terms"""":""""quantum-resistant"""" OR """"Index Terms"""":""""quantum-safe"""" OR """"Index Terms"""":""""quantum attack"""" OR """"Index Terms"""":""""quantum attacks"""" OR """"Index Terms"""":""""quantum threat"""" OR """"Index Terms"""":""""quantum threats"""" OR """"Index Terms"""":""""quantum computer"""" OR """"Index Terms"""":""""quantum computers"""" OR """"Index Terms"""":""""quantum computing"""")"
+")"",""Year: 2018–2026"
+Language: English
+"Document type: Article, Conference Paper, Review, Book Chapter"",1326,1259,,"
+"S2,IEEE,2026-05-12 00:00:00,""("
+"  (""""Document Title"""":blockchain OR """"Document Title"""":""""distributed ledger"""" OR """"Document Title"""":DLT OR """"Document Title"""":cryptocurrency OR """"Document Title"""":bitcoin OR """"Document Title"""":ethereum"
+"   OR """"Abstract"""":blockchain OR """"Abstract"""":""""distributed ledger"""" OR """"Abstract"""":DLT OR """"Abstract"""":cryptocurrency OR """"Abstract"""":bitcoin OR """"Abstract"""":ethereum"
+"   OR """"Index Terms"""":blockchain OR """"Index Terms"""":""""distributed ledger"""" OR """"Index Terms"""":DLT OR """"Index Terms"""":cryptocurrency OR """"Index Terms"""":bitcoin OR """"Index Terms"""":ethereum)"
+)
+AND
+(
+"  (""""Document Title"""":""""post-quantum"""" OR """"Document Title"""":""""quantum-resistant"""" OR """"Document Title"""":""""quantum-safe"""""
+"   OR """"Abstract"""":""""post-quantum"""" OR """"Abstract"""":""""quantum-resistant"""" OR """"Abstract"""":""""quantum-safe"""""
+"   OR """"Index Terms"""":""""post-quantum"""" OR """"Index Terms"""":""""quantum-resistant"""" OR """"Index Terms"""":""""quantum-safe"""")"
+)
+AND
+(
+"  (""""Document Title"""":migration OR """"Document Title"""":transition OR """"Document Title"""":""""crypto-agility"""" OR """"Document Title"""":""""cryptographic agility"""" OR """"Document Title"""":""""key rotation"""" OR """"Document Title"""":hybrid OR """"Document Title"""":upgrade OR """"Document Title"""":interoperability"
+"   OR """"Abstract"""":migration OR """"Abstract"""":transition OR """"Abstract"""":""""crypto-agility"""" OR """"Abstract"""":""""cryptographic agility"""" OR """"Abstract"""":""""key rotation"""" OR """"Abstract"""":hybrid OR """"Abstract"""":upgrade OR """"Abstract"""":interoperability"
+"   OR """"Index Terms"""":migration OR """"Index Terms"""":transition OR """"Index Terms"""":""""crypto-agility"""" OR """"Index Terms"""":""""cryptographic agility"""" OR """"Index Terms"""":""""key rotation"""" OR """"Index Terms"""":hybrid OR """"Index Terms"""":upgrade OR """"Index Terms"""":interoperability)"
+")"",,208,201,,"
+"S3,IEEE,2026-05-12 00:00:00,""("
+"  (""""Document Title"""":blockchain OR """"Document Title"""":""""distributed ledger"""" OR """"Document Title"""":DLT OR """"Document Title"""":bitcoin OR """"Document Title"""":ethereum OR """"Document Title"""":validator OR """"Document Title"""":validators OR """"Document Title"""":consensus"
+"   OR """"Abstract"""":blockchain OR """"Abstract"""":""""distributed ledger"""" OR """"Abstract"""":DLT OR """"Abstract"""":bitcoin OR """"Abstract"""":ethereum OR """"Abstract"""":validator OR """"Abstract"""":validators OR """"Abstract"""":consensus"
+"   OR """"Index Terms"""":blockchain OR """"Index Terms"""":""""distributed ledger"""" OR """"Index Terms"""":DLT OR """"Index Terms"""":bitcoin OR """"Index Terms"""":ethereum OR """"Index Terms"""":validator OR """"Index Terms"""":validators OR """"Index Terms"""":consensus)"
+)
+AND
+(
+"  (""""Document Title"""":""""post-quantum"""" OR """"Document Title"""":""""quantum-resistant"""" OR """"Document Title"""":""""quantum-safe"""""
+"   OR """"Abstract"""":""""post-quantum"""" OR """"Abstract"""":""""quantum-resistant"""" OR """"Abstract"""":""""quantum-safe"""""
+"   OR """"Index Terms"""":""""post-quantum"""" OR """"Index Terms"""":""""quantum-resistant"""" OR """"Index Terms"""":""""quantum-safe"""")"
+)
+AND
+(
+"  (""""Document Title"""":signature OR """"Document Title"""":signatures OR """"Document Title"""":authentication OR """"Document Title"""":ECDSA OR """"Document Title"""":EdDSA OR """"Document Title"""":BLS OR """"Document Title"""":""""digital signature"""" OR """"Document Title"""":""""digital signatures"""" OR """"Document Title"""":wallet OR """"Document Title"""":wallets OR """"Document Title"""":account OR """"Document Title"""":accounts"
+"   OR """"Abstract"""":signature OR """"Abstract"""":signatures OR """"Abstract"""":authentication OR """"Abstract"""":ECDSA OR """"Abstract"""":EdDSA OR """"Abstract"""":BLS OR """"Abstract"""":""""digital signature"""" OR """"Abstract"""":""""digital signatures"""" OR """"Abstract"""":wallet OR """"Abstract"""":wallets OR """"Abstract"""":account OR """"Abstract"""":accounts"
+"   OR """"Index Terms"""":signature OR """"Index Terms"""":signatures OR """"Index Terms"""":authentication OR """"Index Terms"""":ECDSA OR """"Index Terms"""":EdDSA OR """"Index Terms"""":BLS OR """"Index Terms"""":""""digital signature"""" OR """"Index Terms"""":""""digital signatures"""" OR """"Index Terms"""":wallet OR """"Index Terms"""":wallets OR """"Index Terms"""":account OR """"Index Terms"""":accounts)"
+")"",,413,395,,"
+"S4,IEEE,2026-05-12 00:00:00,""("
+"  (""""Document Title"""":blockchain OR """"Document Title"""":ethereum OR """"Document Title"""":""""smart contract"""" OR """"Document Title"""":""""smart contracts"""" OR """"Document Title"""":DeFi OR """"Document Title"""":""""zero knowledge"""" OR """"Document Title"""":""""zero-knowledge"""" OR """"Document Title"""":zkSNARK OR """"Document Title"""":zkSNARKs OR """"Document Title"""":""""zk-SNARK"""" OR """"Document Title"""":""""zk-SNARKs"""" OR """"Document Title"""":STARK OR """"Document Title"""":STARKs OR """"Document Title"""":rollup OR """"Document Title"""":rollups"
+"   OR """"Abstract"""":blockchain OR """"Abstract"""":ethereum OR """"Abstract"""":""""smart contract"""" OR """"Abstract"""":""""smart contracts"""" OR """"Abstract"""":DeFi OR """"Abstract"""":""""zero knowledge"""" OR """"Abstract"""":""""zero-knowledge"""" OR """"Abstract"""":zkSNARK OR """"Abstract"""":zkSNARKs OR """"Abstract"""":""""zk-SNARK"""" OR """"Abstract"""":""""zk-SNARKs"""" OR """"Abstract"""":STARK OR """"Abstract"""":STARKs OR """"Abstract"""":rollup OR """"Abstract"""":rollups"
+"   OR """"Index Terms"""":blockchain OR """"Index Terms"""":ethereum OR """"Index Terms"""":""""smart contract"""" OR """"Index Terms"""":""""smart contracts"""" OR """"Index Terms"""":DeFi OR """"Index Terms"""":""""zero knowledge"""" OR """"Index Terms"""":""""zero-knowledge"""" OR """"Index Terms"""":zkSNARK OR """"Index Terms"""":zkSNARKs OR """"Index Terms"""":""""zk-SNARK"""" OR """"Index Terms"""":""""zk-SNARKs"""" OR """"Index Terms"""":STARK OR """"Index Terms"""":STARKs OR """"Index Terms"""":rollup OR """"Index Terms"""":rollups)"
+)
+AND
+(
+"  (""""Document Title"""":""""post-quantum"""" OR """"Document Title"""":""""quantum-resistant"""" OR """"Document Title"""":""""quantum-safe"""" OR """"Document Title"""":""""quantum attack"""" OR """"Document Title"""":""""quantum attacks"""""
+"   OR """"Abstract"""":""""post-quantum"""" OR """"Abstract"""":""""quantum-resistant"""" OR """"Abstract"""":""""quantum-safe"""" OR """"Abstract"""":""""quantum attack"""" OR """"Abstract"""":""""quantum attacks"""""
+"   OR """"Index Terms"""":""""post-quantum"""" OR """"Index Terms"""":""""quantum-resistant"""" OR """"Index Terms"""":""""quantum-safe"""" OR """"Index Terms"""":""""quantum attack"""" OR """"Index Terms"""":""""quantum attacks"""")"
+")"",,703,669,,"
+"S5,IEEE,,""("
+"  (""""Document Title"""":blockchain OR """"Document Title"""":""""distributed ledger"""" OR """"Document Title"""":DLT"
+"   OR """"Abstract"""":blockchain OR """"Abstract"""":""""distributed ledger"""" OR """"Abstract"""":DLT"
+"   OR """"Index Terms"""":blockchain OR """"Index Terms"""":""""distributed ledger"""" OR """"Index Terms"""":DLT)"
+)
+AND
+(
+"  (""""Document Title"""":""""post-quantum"""" OR """"Document Title"""":""""quantum-resistant"""" OR """"Document Title"""":""""quantum-safe"""" OR """"Document Title"""":cryptographic"
+"   OR """"Abstract"""":""""post-quantum"""" OR """"Abstract"""":""""quantum-resistant"""" OR """"Abstract"""":""""quantum-safe"""" OR """"Abstract"""":cryptographic"
+"   OR """"Index Terms"""":""""post-quantum"""" OR """"Index Terms"""":""""quantum-resistant"""" OR """"Index Terms"""":""""quantum-safe"""" OR """"Index Terms"""":cryptographic)"
+)
+AND
+(
+"  (""""Document Title"""":evidence OR """"Document Title"""":archival OR """"Document Title"""":archive OR """"Document Title"""":""""long-term validation"""" OR """"Document Title"""":timestamp OR """"Document Title"""":timestamps OR """"Document Title"""":timestamping OR """"Document Title"""":audit OR """"Document Title"""":audits OR """"Document Title"""":auditing OR """"Document Title"""":preservation OR """"Document Title"""":""""digital evidence"""""
+"   OR """"Abstract"""":evidence OR """"Abstract"""":archival OR """"Abstract"""":archive OR """"Abstract"""":""""long-term validation"""" OR """"Abstract"""":timestamp OR """"Abstract"""":timestamps OR """"Abstract"""":timestamping OR """"Abstract"""":audit OR """"Abstract"""":audits OR """"Abstract"""":auditing OR """"Abstract"""":preservation OR """"Abstract"""":""""digital evidence"""""
+"   OR """"Index Terms"""":evidence OR """"Index Terms"""":archival OR """"Index Terms"""":archive OR """"Index Terms"""":""""long-term validation"""" OR """"Index Terms"""":timestamp OR """"Index Terms"""":timestamps OR """"Index Terms"""":timestamping OR """"Index Terms"""":audit OR """"Index Terms"""":audits OR """"Index Terms"""":auditing OR """"Index Terms"""":preservation OR """"Index Terms"""":""""digital evidence"""")"
+")"",,832,796,,"
+"S1,ACM,,""(   Title:(blockchain OR """"distributed ledger"""" OR DLT OR cryptocurrency OR bitcoin OR ethereum)   OR Abstract:(blockchain OR """"distributed ledger"""" OR DLT OR cryptocurrency OR bitcoin OR ethereum)   OR Keyword:(blockchain OR """"distributed ledger"""" OR DLT OR cryptocurrency OR bitcoin OR ethereum) ) AND (   Title:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR """"quantum attack"""" OR """"quantum attacks"""" OR """"quantum threat"""" OR """"quantum threats"""" OR """"quantum computer"""" OR """"quantum computers"""" OR """"quantum computing"""")   OR Abstract:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR """"quantum attack"""" OR """"quantum attacks"""" OR """"quantum threat"""" OR """"quantum threats"""" OR """"quantum computer"""" OR """"quantum computers"""" OR """"quantum computing"""")   OR Keyword:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR """"quantum attack"""" OR """"quantum attacks"""" OR """"quantum threat"""" OR """"quantum threats"""" OR """"quantum computer"""" OR """"quantum computers"""" OR """"quantum computing"""") )"",,,,,"
+"S2,,,""("
+"  Title:(blockchain OR """"distributed ledger"""" OR DLT OR cryptocurrency OR bitcoin OR ethereum)"
+"  OR Abstract:(blockchain OR """"distributed ledger"""" OR DLT OR cryptocurrency OR bitcoin OR ethereum)"
+"  OR Keyword:(blockchain OR """"distributed ledger"""" OR DLT OR cryptocurrency OR bitcoin OR ethereum)"
+)
+AND
+(
+"  Title:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""")"
+"  OR Abstract:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""")"
+"  OR Keyword:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""")"
+)
+AND
+(
+"  Title:(migration OR transition OR """"crypto-agility"""" OR """"cryptographic agility"""" OR """"key rotation"""" OR hybrid OR upgrade OR interoperability)"
+"  OR Abstract:(migration OR transition OR """"crypto-agility"""" OR """"cryptographic agility"""" OR """"key rotation"""" OR hybrid OR upgrade OR interoperability)"
+"  OR Keyword:(migration OR transition OR """"crypto-agility"""" OR """"cryptographic agility"""" OR """"key rotation"""" OR hybrid OR upgrade OR interoperability)"
+")"",,,,,"
+"S3,,,""("
+"  Title:(blockchain OR """"distributed ledger"""" OR DLT OR bitcoin OR ethereum OR validator OR validators OR consensus)"
+"  OR Abstract:(blockchain OR """"distributed ledger"""" OR DLT OR bitcoin OR ethereum OR validator OR validators OR consensus)"
+"  OR Keyword:(blockchain OR """"distributed ledger"""" OR DLT OR bitcoin OR ethereum OR validator OR validators OR consensus)"
+)
+AND
+(
+"  Title:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""")"
+"  OR Abstract:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""")"
+"  OR Keyword:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""")"
+)
+AND
+(
+"  Title:(signature OR signatures OR authentication OR ECDSA OR EdDSA OR BLS OR """"digital signature"""" OR """"digital signatures"""" OR wallet OR wallets OR account OR accounts)"
+"  OR Abstract:(signature OR signatures OR authentication OR ECDSA OR EdDSA OR BLS OR """"digital signature"""" OR """"digital signatures"""" OR wallet OR wallets OR account OR accounts)"
+"  OR Keyword:(signature OR signatures OR authentication OR ECDSA OR EdDSA OR BLS OR """"digital signature"""" OR """"digital signatures"""" OR wallet OR wallets OR account OR accounts)"
+")"",,,,,"
+"S4,,,""("
+"  Title:(blockchain OR ethereum OR """"smart contract"""" OR """"smart contracts"""" OR DeFi OR """"zero knowledge"""" OR """"zero-knowledge"""" OR zkSNARK OR zkSNARKs OR """"zk-SNARK"""" OR """"zk-SNARKs"""" OR STARK OR STARKs OR rollup OR rollups)"
+"  OR Abstract:(blockchain OR ethereum OR """"smart contract"""" OR """"smart contracts"""" OR DeFi OR """"zero knowledge"""" OR """"zero-knowledge"""" OR zkSNARK OR zkSNARKs OR """"zk-SNARK"""" OR """"zk-SNARKs"""" OR STARK OR STARKs OR rollup OR rollups)"
+"  OR Keyword:(blockchain OR ethereum OR """"smart contract"""" OR """"smart contracts"""" OR DeFi OR """"zero knowledge"""" OR """"zero-knowledge"""" OR zkSNARK OR zkSNARKs OR """"zk-SNARK"""" OR """"zk-SNARKs"""" OR STARK OR STARKs OR rollup OR rollups)"
+)
+AND
+(
+"  Title:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR """"quantum attack"""" OR """"quantum attacks"""")"
+"  OR Abstract:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR """"quantum attack"""" OR """"quantum attacks"""")"
+"  OR Keyword:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR """"quantum attack"""" OR """"quantum attacks"""")"
+")"",,,,,"
+"S5,,,""("
+"  Title:(blockchain OR """"distributed ledger"""" OR DLT)"
+"  OR Abstract:(blockchain OR """"distributed ledger"""" OR DLT)"
+"  OR Keyword:(blockchain OR """"distributed ledger"""" OR DLT)"
+)
+AND
+(
+"  Title:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR cryptographic)"
+"  OR Abstract:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR cryptographic)"
+"  OR Keyword:(""""post-quantum"""" OR """"quantum-resistant"""" OR """"quantum-safe"""" OR cryptographic)"
+)
+AND
+(
+"  Title:(evidence OR archival OR archive OR """"long-term validation"""" OR timestamp OR timestamps OR timestamping OR audit OR audits OR auditing OR preservation OR """"digital evidence"""")"
+"  OR Abstract:(evidence OR archival OR archive OR """"long-term validation"""" OR timestamp OR timestamps OR timestamping OR audit OR audits OR auditing OR preservation OR """"digital evidence"""")"
+"  OR Keyword:(evidence OR archival OR archive OR """"long-term validation"""" OR timestamp OR timestamps OR timestamping OR audit OR audits OR auditing OR preservation OR """"digital evidence"""")"
+")"",,,,,"

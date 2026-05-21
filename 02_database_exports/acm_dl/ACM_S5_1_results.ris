@@ -1,0 +1,561 @@
+﻿TY  - JOUR
+TI  - AmarVote: A Web-Based ElectionGuard System with Post-Quantum Guardian Key Protection and Blockchain Auditing
+AU  - Tawkir Aziz Rahman
+AU  - Masnoon Muztahid
+AU  - Dipanta Kumar Roy Nobo
+AU  - Shiekh Azizul Hakim
+PY  - 2025
+T2  - NSysS '25: Proceedings of the 12th International Conference on Next Generation Computing, Communication, Systems and Security
+DO  - 10.1145/3777555.3777570
+UR  - https://doi.org/10.1145/3777555.3777570
+ER  -
+
+TY  - JOUR
+TI  - Poster: Post-Quantum Readiness in EdDSA Chains
+AU  - Kostas Kryptos Chalkias
+PY  - 2025
+T2  - CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3719027.3760734
+UR  - https://doi.org/10.1145/3719027.3760734
+ER  -
+
+TY  - JOUR
+TI  - Integrating Post-Quantum Cryptography in Document Lifecycle Management
+AU  - Ricardo A. Santa Quintero
+AU  - Sonia L. Meneses Velandia
+PY  - 2025
+T2  - CIIS '25: Proceedings of the 2025 8th International Conference on Systems Engineering - Cybersecurity & AI: Building a reliable digital future
+DO  - 10.1145/3771678.3771685
+UR  - https://doi.org/10.1145/3771678.3771685
+ER  -
+
+TY  - JOUR
+TI  - The Fourth International Workshop on Smart Data for Blockchain and Distributed Ledger (SDBD'24)
+AU  - Feida Zhu
+AU  - Jian Pei
+AU  - Michael Zeller
+AU  - Bingxue Zhang
+PY  - 2024
+T2  - KDD '24: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+DO  - 10.1145/3637528.3671475
+UR  - https://doi.org/10.1145/3637528.3671475
+ER  -
+
+TY  - JOUR
+TI  - Post quantum identity authentication mechanism in blockchain
+AU  - Peng Duan
+AU  - Bo Zhou
+PY  - 2023
+T2  - ICCIP '22: Proceedings of the 8th International Conference on Communication and Information Processing
+DO  - 10.1145/3571662.3571682
+UR  - https://doi.org/10.1145/3571662.3571682
+ER  -
+
+TY  - JOUR
+TI  - Post Quantum Fuzzy Stealth Signatures and Applications
+AU  - Sihang Pu
+AU  - Sri AravindaKrishnan Thyagarajan
+AU  - Nico DΓ¶ttling
+AU  - Lucjan Hanzlik
+PY  - 2023
+T2  - CCS '23: Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3576915.3623148
+UR  - https://doi.org/10.1145/3576915.3623148
+ER  -
+
+TY  - JOUR
+TI  - Storing and Securing the Digital Evidence in the Process of Digital Forensics through Blockchain Technology
+AU  - Venkata Praveen Krishna Anne
+AU  - Roshan Chandra Ayyadevara
+AU  - Dinakar Potta
+PY  - 2022
+T2  - DSMLAI '21': Proceedings of the International Conference on Data Science, Machine Learning and Artificial Intelligence
+DO  - 10.1145/3484824.3484899
+UR  - https://doi.org/10.1145/3484824.3484899
+ER  -
+
+TY  - JOUR
+TI  - Blockchain-Based Smart Contracts for Automated Payroll and Tax Compliance: A Cryptographically-Verified Framework for Fraud Prevention and Real-Time Regulatory Adherence in Distributed Accounting Systems
+AU  - Xianghan Zhang
+PY  - 2026
+T2  - DTM '25: Proceedings of the 2025 International Conference on Digital Transformation and Management
+DO  - 10.1145/3795546.3795569
+UR  - https://doi.org/10.1145/3795546.3795569
+ER  -
+
+TY  - JOUR
+TI  - A Hitchhiker's Guide to Privacy-Preserving Digital Payment Systems: A Survey on Anonymity, Confidentiality, and Auditability
+AU  - Matteo Nardelli
+AU  - Francesco De Sclavis
+AU  - Michela Iezzi
+PY  - 2026
+T2  - Distributed Ledger Technologies: Research and Practice (DLT), Just Accepted
+DO  - 10.1145/3801555
+UR  - https://doi.org/10.1145/3801555
+ER  -
+
+TY  - JOUR
+TI  - MatRiCT
+AU  - Muhammed F. Esgin
+AU  - Raymond K. Zhao
+AU  - Ron Steinfeld
+AU  - Joseph K. Liu
+AU  - Dongxi Liu
+PY  - 2019
+T2  - CCS '19: Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3319535.3354200
+UR  - https://doi.org/10.1145/3319535.3354200
+ER  -
+
+TY  - JOUR
+TI  - DFTWS: Deterministic, Fair, and Transparent Winner Selection for the Useful Work Blockchain Gophy
+AU  - Felix Hoffmann
+PY  - 2026
+T2  - Distributed Ledger Technologies: Research and Practice (DLT), Volume 5, Issue 3
+DO  - 10.1145/3721139
+UR  - https://doi.org/10.1145/3721139
+ER  -
+
+TY  - JOUR
+TI  - Secure Hardware-Assisted Blockchain Framework for IoT Device Authentication using Zero-Knowledge Proofs
+AU  - Kesara Wimal
+AU  - Gary Cullen
+AU  - John Donovan
+PY  - 2025
+T2  - GoodIT '25: Proceedings of the 2025 International Conference on Information Technology for Social Good
+DO  - 10.1145/3748699.3749808
+UR  - https://doi.org/10.1145/3748699.3749808
+ER  -
+
+TY  - JOUR
+TI  - Electronic evidence preservation model based on blockchain
+AU  - Yu Xiong
+AU  - Jiang Du
+PY  - 2019
+T2  - ICCSP '19: Proceedings of the 3rd International Conference on Cryptography, Security and Privacy
+DO  - 10.1145/3309074.3309075
+UR  - https://doi.org/10.1145/3309074.3309075
+ER  -
+
+TY  - JOUR
+TI  - Research and application of blockchain technology in Internet of Vehicles
+AU  - Xiang Chen
+AU  - Renmi Zhang
+AU  - Xue Pan
+AU  - Yin Zeng
+PY  - 2026
+T2  - CNSCT '26: Proceedings of the 2026 5th International Conference on Cryptography, Network Security and Communication Technology
+DO  - 10.1145/3802927.3802949
+UR  - https://doi.org/10.1145/3802927.3802949
+ER  -
+
+TY  - JOUR
+TI  - A Zero-Knowledge Proof-Driven Architecture for Privacy-Preserving Data Trading on Blockchain
+AU  - Zhiming Song
+AU  - Leijin Long
+AU  - Junrong Song
+AU  - Rong Jiang
+PY  - 2026
+T2  - ACM Transactions on Internet Technology (TOIT), Volume 26, Issue 3
+DO  - 10.1145/3805044
+UR  - https://doi.org/10.1145/3805044
+ER  -
+
+TY  - JOUR
+TI  - Invited Paper: A Practical Framework for Encrypted Medical Prediction using Blockchain-Anchored Key Management System
+AU  - Rafik Hamza
+AU  - Minh-Son Dao
+PY  - 2025
+T2  - SCID '25: Proceedings of the 2nd Workshop on Security-Centric Strategies for Combating Information Disorder
+DO  - 10.1145/3709020.3735357
+UR  - https://doi.org/10.1145/3709020.3735357
+ER  -
+
+TY  - JOUR
+TI  - Improve Blockchain Security Environment based on Visual Cryptography Techniques
+AU  - Zainab Hassan Katoof
+AU  - Hala Bahjat Abdulwahab
+PY  - 2026
+T2  - ICCES '26: Proceedings of the 2026 2nd International Conference on Computing and Emerging Sciences
+DO  - 10.1145/3797491.3797509
+UR  - https://doi.org/10.1145/3797491.3797509
+ER  -
+
+TY  - JOUR
+TI  - zkEC@0.0.1: Evolutionary Computation Meets Programmable Cryptography on Blockchain
+AU  - Goshgar Can Ismayilov
+PY  - 2025
+T2  - SAC '25: Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing
+DO  - 10.1145/3672608.3707820
+UR  - https://doi.org/10.1145/3672608.3707820
+ER  -
+
+TY  - JOUR
+TI  - Research on a Server-Side Core Chain (SSC) Architecture Based on Consortium Blockchain
+AU  - Zhengwei Jing
+AU  - Kun Zhu
+AU  - Ying Gan
+PY  - 2026
+T2  - DECS '25: Proceedings of the 2025 2nd International Conference on Digital Economy and Computer Science
+DO  - 10.1145/3785706.3785785
+UR  - https://doi.org/10.1145/3785706.3785785
+ER  -
+
+TY  - JOUR
+TI  - ARCHANGEL
+AU  - J. Collomosse
+AU  - T. Bui
+AU  - A. Brown
+AU  - J. Sheridan
+AU  - A. Green
+AU  - M. Bell
+PY  - 2018
+T2  - DocEng '18: Proceedings of the ACM Symposium on Document Engineering 2018
+DO  - 10.1145/3209280.3229120
+UR  - https://doi.org/10.1145/3209280.3229120
+ER  -
+
+TY  - JOUR
+TI  - Composable Ledgers for Distributed Synchronic Web Archiving
+AU  - Thien-Nam Dinh
+AU  - Nicholas Pattengale
+PY  - 2024
+T2  - JCDL '23: Proceedings of the 2023 ACM/IEEE Joint Conference on Digital Libraries
+DO  - 10.1109/JCDL57899.2023.00043
+UR  - https://doi.org/10.1109/JCDL57899.2023.00043
+ER  -
+
+TY  - JOUR
+TI  - Privacy-Preserving Reputation Systems Based on Blockchain and Other Cryptographic Building Blocks: A Survey
+AU  - Omar Hasan
+AU  - Lionel Brunie
+AU  - Elisa Bertino
+PY  - 2022
+T2  - ACM Computing Surveys (CSUR), Volume 55, Issue 2
+DO  - 10.1145/3490236
+UR  - https://doi.org/10.1145/3490236
+ER  -
+
+TY  - JOUR
+TI  - A Zero-Knowledge Proof-Based Protocol for Privacy-Preserving Transactions on Public Blockchains
+AU  - Hao Pham Duc
+AU  - Khang Vo
+AU  - Khuong Nguyen - An
+PY  - 2025
+T2  - BSCI '25: Proceedings of the 7th ACM International Symposium on Blockchain and Secure Critical Infrastructure
+DO  - 10.1145/3709016.3737794
+UR  - https://doi.org/10.1145/3709016.3737794
+ER  -
+
+TY  - JOUR
+TI  - Fastcrypto: Pioneering Cryptography Via Continuous Benchmarking
+AU  - Kostas Kryptos Chalkias
+AU  - Jonas LindstrΓΈm
+AU  - Deepak Maram
+AU  - Ben Riva
+PY  - 2024
+T2  - ICPE '24 Companion: Companion of the 15th ACM/SPEC International Conference on Performance Engineering
+DO  - 10.1145/3629527.3652266
+UR  - https://doi.org/10.1145/3629527.3652266
+ER  -
+
+TY  - JOUR
+TI  - SWMT: A Sliding Window Merkle Tree with Delayed Writes for Scalable Blockchain State Management
+AU  - Nianzu Sheng
+AU  - Tong Zhou
+AU  - He Zhao
+AU  - Xiaofeng Li
+AU  - Jinlin Xu
+PY  - 2026
+T2  - Proceedings of the ACM on Management of Data (PACMMOD), Volume 4, Issue 1
+DO  - 10.1145/3786701
+UR  - https://doi.org/10.1145/3786701
+ER  -
+
+TY  - JOUR
+TI  - Research on Blockchain Technology Application for Financial Flow Transparency in Social Organizations
+AU  - Xiao Wang
+AU  - Qin Li
+AU  - Qingyang Sun
+PY  - 2026
+T2  - DECS '25: Proceedings of the 2025 2nd International Conference on Digital Economy and Computer Science
+DO  - 10.1145/3785706.3785806
+UR  - https://doi.org/10.1145/3785706.3785806
+ER  -
+
+TY  - JOUR
+TI  - A Blockchain-Assisted Revocable and Efficient ABSE Scheme for Secure Medical Data Sharing
+AU  - Gao Hancheng
+AU  - Wu Xiaoyu
+AU  - Haiping Huang
+AU  - Li Qi
+AU  - Xing Yizheng
+PY  - 2026
+T2  - ACM Transactions on the Web (TWEB), Volume 20, Issue 1
+DO  - 10.1145/3771992
+UR  - https://doi.org/10.1145/3771992
+ER  -
+
+TY  - JOUR
+TI  - ZTP: A Scalable and Lightweight Privacy-Preserving Blockchain via Scale-Free Quorums and Geometric Fragmentation
+AU  - Abdullah Al Mamun
+AU  - Dongfang Zhao
+AU  - Gagan Agrawal
+AU  - Ahmed Aleroud
+PY  - 2025
+T2  - ICPP '25: Proceedings of the 54th International Conference on Parallel Processing
+DO  - 10.1145/3754598.3754625
+UR  - https://doi.org/10.1145/3754598.3754625
+ER  -
+
+TY  - JOUR
+TI  - Auditable zerocoin scheme with user awareness
+AU  - Yihan Jiang
+AU  - Yong Li
+AU  - Yan Zhu
+PY  - 2019
+T2  - ICCSP '19: Proceedings of the 3rd International Conference on Cryptography, Security and Privacy
+DO  - 10.1145/3309074.3309094
+UR  - https://doi.org/10.1145/3309074.3309094
+ER  -
+
+TY  - JOUR
+TI  - Blockchain-Based Zero-Knowledge Proofs for Data Privacy: Explore the Application of Blockchain Technology in facilitating Privacy-Preserving Transactions through Zero-Knowledge Proofs and Analyze their Effectiveness in Protecting Sensitive Data.
+AU  - Shashank Saroop
+PY  - 2024
+T2  - ICIMMI '23: Proceedings of the 5th International Conference on Information Management & Machine Intelligence
+DO  - 10.1145/3647444.3652463
+UR  - https://doi.org/10.1145/3647444.3652463
+ER  -
+
+TY  - JOUR
+TI  - The promise of blockchain technology for interaction design
+AU  - Marcus Foth
+PY  - 2017
+T2  - OzCHI '17: Proceedings of the 29th Australian Conference on Computer-Human Interaction
+DO  - 10.1145/3152771.3156168
+UR  - https://doi.org/10.1145/3152771.3156168
+ER  -
+
+TY  - JOUR
+TI  - A Regulatable Blockchain Rewriting Scheme for Identity-Aware Data Modification and User Identity Update
+AU  - Fu Zhang
+AU  - Yuqing Zhang
+AU  - Zhaofeng Ma
+AU  - Lin Sun
+AU  - Yushi Shen
+PY  - 2026
+T2  - ACM Transactions on the Web (TWEB), Volume 20, Issue 1
+DO  - 10.1145/3765896
+UR  - https://doi.org/10.1145/3765896
+ER  -
+
+TY  - JOUR
+TI  - Verifiable Location Privacy for LBS: A Decentralized Scheme Based on Blockchain and Zero-Knowledge Proofs
+AU  - Conglin Zhang
+AU  - Hongyong Jia
+AU  - Junjie Zeng
+AU  - Wei Zhao
+PY  - 2026
+T2  - AISNS '25: Proceedings of the 2025 3rd International Conference on Artificial Intelligence, Systems and Network Security
+DO  - 10.1145/3797161.3797220
+UR  - https://doi.org/10.1145/3797161.3797220
+ER  -
+
+TY  - JOUR
+TI  - Privacy Preservation of Electronic Health Records in the Modern Era: A Systematic Survey
+AU  - Raza Nowrozy
+AU  - Khandakar Ahmed
+AU  - A. S. M. Kayes
+AU  - Hua Wang
+AU  - Timothy R. McIntosh
+PY  - 2024
+T2  - ACM Computing Surveys (CSUR), Volume 56, Issue 8
+DO  - 10.1145/3653297
+UR  - https://doi.org/10.1145/3653297
+ER  -
+
+TY  - JOUR
+TI  - LETUS: A Log-Structured Efficient Trusted Universal BlockChain Storage
+AU  - Shikun Tian
+AU  - Zhonghao Lu
+AU  - Haizhen Zhuo
+AU  - Xiaojing Tang
+AU  - Peiyi Hong
+PY  - 2024
+T2  - SIGMOD '24: Companion of the 2024 International Conference on Management of Data
+DO  - 10.1145/3626246.3653390
+UR  - https://doi.org/10.1145/3626246.3653390
+ER  -
+
+TY  - JOUR
+TI  - Preserving the Archival Bond in Distributed Ledgers
+AU  - Victoria L. Lemieux
+AU  - Manu Sporny
+PY  - 2017
+T2  - WWW '17 Companion: Proceedings of the 26th International Conference on World Wide Web Companion
+DO  - 10.1145/3041021.3053896
+UR  - https://doi.org/10.1145/3041021.3053896
+ER  -
+
+TY  - JOUR
+TI  - BDIMS: A Blockchain Based Digital Identity Management System with Zero Knowledge Proof
+AU  - Md. Humayan Kabir Rupok
+AU  - K. M. Azharul Hasan
+PY  - 2025
+T2  - ICCA '24: Proceedings of the 3rd International Conference on Computing Advancements
+DO  - 10.1145/3723178.3723258
+UR  - https://doi.org/10.1145/3723178.3723258
+ER  -
+
+TY  - JOUR
+TI  - Fidelius: A Novel Secure Data Analysis Framework Leveraging Intel SGX and Blockchain
+AU  - Chenmin Wang
+AU  - Chunhua Su
+AU  - Zhenxing Hu
+AU  - Xuepeng Fan
+AU  - Yulong Zeng
+PY  - 2025
+T2  - BSCI '25: Proceedings of the 7th ACM International Symposium on Blockchain and Secure Critical Infrastructure
+DO  - 10.1145/3709016.3737801
+UR  - https://doi.org/10.1145/3709016.3737801
+ER  -
+
+TY  - JOUR
+TI  - The next stage of green electricity labeling
+AU  - Johannes Sedlmeir
+AU  - Fabiane VΓ¶lter
+AU  - Jens StrΓΌker
+PY  - 2022
+T2  - ACM SIGEnergy Energy Informatics Review (SIGENERGY-EIR), Volume 1, Issue 1
+DO  - 10.1145/3508467.3508470
+UR  - https://doi.org/10.1145/3508467.3508470
+ER  -
+
+TY  - JOUR
+TI  - The Creation Blockchain: Documentation and Validation of Work Processes
+AU  - Wenzel HΓΌnting
+AU  - Daniel Loebenberger
+AU  - Sebastian von Mammen
+PY  - 2024
+T2  - FDG '24: Proceedings of the 19th International Conference on the Foundations of Digital Games
+DO  - 10.1145/3649921.3656992
+UR  - https://doi.org/10.1145/3649921.3656992
+ER  -
+
+TY  - JOUR
+TI  - Security Implications of Blockchain Cloud with Analysis of Block Withholding Attack
+AU  - Deepak K. Tosh
+AU  - Sachin Shetty
+AU  - Xueping Liang
+AU  - Charles A. Kamhoua
+PY  - 2017
+T2  - CCGrid '17: Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing
+DO  - 10.1109/CCGRID.2017.111
+UR  - https://doi.org/10.1109/CCGRID.2017.111
+ER  -
+
+TY  - JOUR
+TI  - Review of Techniques for Privacy-Preserving Blockchain Systems
+AU  - Abylay Satybaldy
+AU  - Mariusz Nowostawski
+PY  - 2020
+T2  - BSCI '20: Proceedings of the 2nd ACM International Symposium on Blockchain and Secure Critical Infrastructure
+DO  - 10.1145/3384943.3409416
+UR  - https://doi.org/10.1145/3384943.3409416
+ER  -
+
+TY  - JOUR
+TI  - Poster: Blockchain-Envisioned Secure Generic Communication Framework using Signcryption
+AU  - Liang Zhang
+AU  - Haibin Kan
+AU  - Yuan Li
+AU  - Jinrong Huang
+PY  - 2022
+T2  - SACMAT '22: Proceedings of the 27th ACM on Symposium on Access Control Models and Technologies
+DO  - 10.1145/3532105.3535034
+UR  - https://doi.org/10.1145/3532105.3535034
+ER  -
+
+TY  - JOUR
+TI  - Privacy-preserving smart grid traceability using blockchain over IoT connectivity
+AU  - Aamir Shahzad
+AU  - Kaiwen Zhang
+AU  - Abdelouahed Gherbi
+PY  - 2021
+T2  - SAC '21: Proceedings of the 36th Annual ACM Symposium on Applied Computing
+DO  - 10.1145/3412841.3441949
+UR  - https://doi.org/10.1145/3412841.3441949
+ER  -
+
+TY  - JOUR
+TI  - ROSNet: Implementing Blockchain Technology to Connect Unmanned Aerial Vehicles and Ground Nodes in Post Disaster Management Frameworks
+AU  - Mahaveerakannan R
+AU  - Balamanigandan R
+AU  - Saraswathi S
+AU  - Dinesh Goyal
+PY  - 2025
+T2  - ICIMMI '24: Proceedings of the 6th International Conference on Information Management & Machine Intelligence
+DO  - 10.1145/3745812.3745868
+UR  - https://doi.org/10.1145/3745812.3745868
+ER  -
+
+TY  - JOUR
+TI  - Privacy Protection Technology in Supply Chain-oriented Blockchain
+AU  - Zhen Sun
+AU  - Bo Liu
+AU  - Boyang Zhang
+AU  - Faguo Wu
+AU  - Bo Zhou
+AU  - Hao Wu
+PY  - 2023
+T2  - ICCIP '22: Proceedings of the 8th International Conference on Communication and Information Processing
+DO  - 10.1145/3571662.3571677
+UR  - https://doi.org/10.1145/3571662.3571677
+ER  -
+
+TY  - JOUR
+TI  - SQL Ledger: Cryptographically Verifiable Data in Azure SQL Database
+AU  - Panagiotis Antonopoulos
+AU  - Raghav Kaushik
+AU  - Hanuma Kodavalla
+PY  - 2021
+T2  - SIGMOD '21: Proceedings of the 2021 International Conference on Management of Data
+DO  - 10.1145/3448016.3457558
+UR  - https://doi.org/10.1145/3448016.3457558
+ER  -
+
+TY  - JOUR
+TI  - Blockchain Solutions in Education
+AU  - Eman Sayed
+PY  - 2021
+T2  - ICSIE '20: Proceedings of the 9th International Conference on Software and Information Engineering
+DO  - 10.1145/3436829.3436872
+UR  - https://doi.org/10.1145/3436829.3436872
+ER  -
+
+TY  - JOUR
+TI  - Zk-Auction: A Cross-Blockchain System for Efficient Auctions combining Zero-Knowledge Proof and NFT
+AU  - Tuan-Dung Tran
+AU  - Phong Khuu Minh
+AU  - Chuong Le Bao Dang
+AU  - Cam Nguyen Tan
+PY  - 2024
+T2  - ICIIT '24: Proceedings of the 2024 9th International Conference on Intelligent Information Technology
+DO  - 10.1145/3654522.3654589
+UR  - https://doi.org/10.1145/3654522.3654589
+ER  -
+
+TY  - JOUR
+TI  - Design and Implementation of Electronic Document Signing and Depositing System Based on Blockchain
+AU  - Quan Ji
+AU  - Zhongcheng Wu
+AU  - Liyang Xie
+AU  - Yong Li
+AU  - Jun Zhang
+PY  - 2024
+T2  - CNSCT '24: Proceedings of the 2024 3rd International Conference on Cryptography, Network Security and Communication Technology
+DO  - 10.1145/3673277.3673336
+UR  - https://doi.org/10.1145/3673277.3673336
+ER  -
+

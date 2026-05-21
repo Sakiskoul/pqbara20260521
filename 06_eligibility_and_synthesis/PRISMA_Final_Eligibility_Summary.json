@@ -1,0 +1,37 @@
+﻿{
+  "candidate_records": 798,
+  "core_synthesis": 69,
+  "background_context": 96,
+  "excluded": 633,
+  "unable_to_retrieve": 0,
+  "core_by_layer": {
+    "ZK/privacy/verifiable computation": 21,
+    "Validator/consensus/governance": 18,
+    "Transaction/wallet/account authorization": 14,
+    "Node trust/PKI/secure communication": 9,
+    "Evidence/audit/archival verification": 3,
+    "Smart contracts/DeFi/bridges": 3,
+    "Cross-layer/system architecture": 1
+  },
+  "core_by_role": {
+    "PQC primitive/protocol mapping": 39,
+    "Migration/crypto-agility design": 12,
+    "Operational trade-off/benchmark": 4,
+    "ZK/privacy redesign": 4,
+    "Prior survey/comparison": 4,
+    "Evidence preservation pattern": 3,
+    "Governance/interoperability/standards": 3
+  },
+  "final_decisions": {
+    "Exclude after full text": 633,
+    "Background/context only": 96,
+    "Include in synthesis": 69
+  },
+  "exclusion_reasons": {
+    "E11 - No blockchain migration contribution": 469,
+    "E12 - PQC primitive only, no DLT relevance": 108,
+    "E13 - Quantum blockchain/QKD only": 41,
+    "E14 - Insufficient technical detail": 15
+  }
+}
+

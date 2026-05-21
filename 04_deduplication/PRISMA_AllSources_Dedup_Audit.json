@@ -1,0 +1,19 @@
+﻿{
+  "raw_total": 22293,
+  "raw_by_database": {
+    "SpringerLink": 14245,
+    "Scopus": 4755,
+    "IEEE Xplore": 3061,
+    "ACM Digital Library": 232
+  },
+  "unique_after_global_dedup": 12291,
+  "duplicates_removed": 10002,
+  "carried_scopus_screening": 2566,
+  "new_records_needing_screening": 9725,
+  "current_include": 657,
+  "current_maybe": 73,
+  "current_exclude": 1836,
+  "potential_title_duplicate_rows": 81,
+  "screening_conflict_rows": 0
+}
+

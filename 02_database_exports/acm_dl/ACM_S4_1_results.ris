@@ -1,0 +1,583 @@
+﻿TY  - JOUR
+TI  - Post-Quantum Zero-Knowledge Proofs and Applications
+AU  - Ron Steinfeld
+PY  - 2023
+T2  - APKC '23: Proceedings of the 10th ACM Asia Public-Key Cryptography Workshop
+DO  - 10.1145/3591866.3593075
+UR  - https://doi.org/10.1145/3591866.3593075
+ER  -
+
+TY  - JOUR
+TI  - The LaZer Library: Lattice-Based Zero Knowledge and Succinct Proofs for Quantum-Safe Privacy
+AU  - Vadim Lyubashevsky
+AU  - Gregor Seiler
+AU  - Patrick Steuer
+PY  - 2024
+T2  - CCS '24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3658644.3690330
+UR  - https://doi.org/10.1145/3658644.3690330
+ER  -
+
+TY  - JOUR
+TI  - LUNA: Quasi-Optimally Succinct Designated-Verifier Zero-Knowledge Arguments from Lattices
+AU  - Ron Steinfeld
+AU  - Amin Sakzad
+AU  - Muhammed F. Esgin
+AU  - Veronika Kuchta
+AU  - Mert Yassi
+AU  - Raymond K. Zhao
+PY  - 2024
+T2  - CCS '24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3658644.3670345
+UR  - https://doi.org/10.1145/3658644.3670345
+ER  -
+
+TY  - JOUR
+TI  - Post-quantum zero knowledge in constant rounds
+AU  - Nir Bitansky
+AU  - Omri Shmueli
+PY  - 2020
+T2  - STOC 2020: Proceedings of the 52nd Annual ACM SIGACT Symposium on Theory of Computing
+DO  - 10.1145/3357713.3384324
+UR  - https://doi.org/10.1145/3357713.3384324
+ER  -
+
+TY  - JOUR
+TI  - LZKSA: Lattice-Based Special Zero-Knowledge Proofs for Secure Aggregation's Input Verification
+AU  - Zhi Lu
+AU  - Songfeng Lu
+PY  - 2025
+T2  - CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3719027.3744812
+UR  - https://doi.org/10.1145/3719027.3744812
+ER  -
+
+TY  - JOUR
+TI  - Poster: Post-Quantum Readiness in EdDSA Chains
+AU  - Kostas Kryptos Chalkias
+PY  - 2025
+T2  - CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3719027.3760734
+UR  - https://doi.org/10.1145/3719027.3760734
+ER  -
+
+TY  - JOUR
+TI  - Post-Quantum Issuer-Hiding Anonymous Credential Scheme
+AU  - The-Anh Ta
+AU  - Sid Chau
+PY  - 2026
+T2  - QRSEC '25: Proceedings of the 2025 1st Workshop on Quantum-Resistant Cryptography and Security
+DO  - 10.1145/3733820.3764678
+UR  - https://doi.org/10.1145/3733820.3764678
+ER  -
+
+TY  - JOUR
+TI  - AHB: Post-Quantum Ad Hoc Blockchain for Private Barter (Extended Abstract)
+AU  - Hillel Avni
+AU  - Shir Buchner
+AU  - Shlomi Dolev
+AU  - Moti Yung
+PY  - 2025
+T2  - ApPLIED '25: Proceedings of the 7th Workshop on Advanced tools, programming languages, and PLatforms for Implementing and Evaluating algorithms for Distributed systems
+DO  - 10.1145/3743642.3743654
+UR  - https://doi.org/10.1145/3743642.3743654
+ER  -
+
+TY  - JOUR
+TI  - Quantum-Resistant FOTA: End-to-End Decentralized Firmware Updates for IoT Using Blockchain and CRYSTALS-Dilithium
+AU  - Ratul Hasan
+AU  - Md. Momenul Haque
+AU  - Redoanul Haque
+AU  - Yousuf Oley
+AU  - Ruhani Akter
+PY  - 2025
+T2  - NSysS '25: Proceedings of the 12th International Conference on Next Generation Computing, Communication, Systems and Security
+DO  - 10.1145/3777555.3777569
+UR  - https://doi.org/10.1145/3777555.3777569
+ER  -
+
+TY  - JOUR
+TI  - QRSec 2025: ACM CCS First Workshop on Quantum-Resistant Cryptography and Security
+AU  - Ashish Kundu
+AU  - Attila A. Yavuz
+AU  - Cristina Nita-Rotaru
+PY  - 2025
+T2  - CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3719027.3767669
+UR  - https://doi.org/10.1145/3719027.3767669
+ER  -
+
+TY  - JOUR
+TI  - Post-Quantum Threshold Ring Signature Applications from VOLE-in-the-Head
+AU  - James Hsin-yu Chiang
+AU  - Ivan DamgΓ¥rd
+AU  - William R. Duro
+AU  - Sunniva Engan
+AU  - Sebastian Kolby
+AU  - Peter Scholl
+PY  - 2025
+T2  - CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3719027.3744854
+UR  - https://doi.org/10.1145/3719027.3744854
+ER  -
+
+TY  - JOUR
+TI  - Turning Uncertainty into Efficiency: Toward Practical, Quantum-Resistant Verifiable Privacy Tools
+AU  - Jie Xu
+PY  - 2025
+T2  - CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3719027.3765572
+UR  - https://doi.org/10.1145/3719027.3765572
+ER  -
+
+TY  - JOUR
+TI  - poqeth: Efficient, post-quantum signature verification on Ethereum
+AU  - Ruslan Kysil
+AU  - IstvΓ΅n AndrΓ΅s Seres
+AU  - PΓ©ter Kutas
+AU  - NΓ΅ndor KelecsΓ©nyi
+PY  - 2025
+T2  - ASIA CCS '25: Proceedings of the 20th ACM Asia Conference on Computer and Communications Security
+DO  - 10.1145/3708821.3736193
+UR  - https://doi.org/10.1145/3708821.3736193
+ER  -
+
+TY  - JOUR
+TI  - Improved Non-Interactive Zero Knowledge with Applications to Post-Quantum Signatures
+AU  - Jonathan Katz
+AU  - Vladimir Kolesnikov
+AU  - Xiao Wang
+PY  - 2018
+T2  - CCS '18: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3243734.3243805
+UR  - https://doi.org/10.1145/3243734.3243805
+ER  -
+
+TY  - JOUR
+TI  - Securing User Identity in Web3 Social Platforms: A Post-Quantum Biometric Approach
+AU  - Swati Kumari
+AU  - Hridoy Sankar Dutta
+AU  - Hitesh Tewari
+PY  - 2025
+T2  - SIoTEC '25: Proceedings of the 6th Workshop on Secure IoT, Edge and Cloud systems
+DO  - 10.1145/3770740.3771878
+UR  - https://doi.org/10.1145/3770740.3771878
+ER  -
+
+TY  - JOUR
+TI  - Post Quantum Communication Over the Internet Infrastructure
+AU  - Shlomi Dolev
+PY  - 2024
+T2  - ICDCN '24: Proceedings of the 25th International Conference on Distributed Computing and Networking
+DO  - 10.1145/3631461.3632514
+UR  - https://doi.org/10.1145/3631461.3632514
+ER  -
+
+TY  - JOUR
+TI  - Support SIMD Optimization with Post Quantum Cryptography Validation on Move Language
+AU  - ChiaHui Su
+AU  - Hsuan-Yun Hung
+AU  - LiangNi Wang
+AU  - I-An Chen
+AU  - Jenq-Kuen Lee
+PY  - 2025
+T2  - ICPP Workshops '25: Workshop Proceedings of the 54th International Conference on Parallel Processing
+DO  - 10.1145/3750720.3757285
+UR  - https://doi.org/10.1145/3750720.3757285
+ER  -
+
+TY  - JOUR
+TI  - Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives
+AU  - Melissa Chase
+AU  - David Derler
+AU  - Steven Goldfeder
+AU  - Claudio Orlandi
+AU  - Sebastian Ramacher
+AU  - Christian Rechberger
+AU  - Daniel Slamanig
+AU  - Greg Zaverucha
+PY  - 2017
+T2  - CCS '17: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3133956.3133997
+UR  - https://doi.org/10.1145/3133956.3133997
+ER  -
+
+TY  - JOUR
+TI  - AmarVote: A Web-Based ElectionGuard System with Post-Quantum Guardian Key Protection and Blockchain Auditing
+AU  - Tawkir Aziz Rahman
+AU  - Masnoon Muztahid
+AU  - Dipanta Kumar Roy Nobo
+AU  - Shiekh Azizul Hakim
+PY  - 2025
+T2  - NSysS '25: Proceedings of the 12th International Conference on Next Generation Computing, Communication, Systems and Security
+DO  - 10.1145/3777555.3777570
+UR  - https://doi.org/10.1145/3777555.3777570
+ER  -
+
+TY  - JOUR
+TI  - Lattice-Based zk-SNARKs from Square Span Programs
+AU  - Rosario Gennaro
+AU  - Michele Minelli
+AU  - Anca Nitulescu
+AU  - Michele OrrΓΉ
+PY  - 2018
+T2  - CCS '18: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3243734.3243845
+UR  - https://doi.org/10.1145/3243734.3243845
+ER  -
+
+TY  - JOUR
+TI  - Limbo: Efficient Zero-knowledge MPCitH-based Arguments
+AU  - Cyprien Delpech de Saint Guilhem
+AU  - Emmanuela Orsini
+AU  - Titouan Tanguy
+PY  - 2021
+T2  - CCS '21: Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3460120.3484595
+UR  - https://doi.org/10.1145/3460120.3484595
+ER  -
+
+TY  - JOUR
+TI  - Towards Post-Quantum Verifiable Credentials
+AU  - Tim Wood
+AU  - Keerthi Thomas
+AU  - Matthew Dean
+AU  - Swaminathan Kannan
+AU  - Robert Learney
+PY  - 2024
+T2  - ARES '24: Proceedings of the 19th International Conference on Availability, Reliability and Security
+DO  - 10.1145/3664476.3669932
+UR  - https://doi.org/10.1145/3664476.3669932
+ER  -
+
+TY  - JOUR
+TI  - Practical Lattice-Based Zero-Knowledge Proofs for Integer Relations
+AU  - Vadim Lyubashevsky
+AU  - Ngoc Khanh Nguyen
+AU  - Gregor Seiler
+PY  - 2020
+T2  - CCS '20: Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3372297.3417894
+UR  - https://doi.org/10.1145/3372297.3417894
+ER  -
+
+TY  - JOUR
+TI  - Blockchain-Based Smart Contracts for Automated Payroll and Tax Compliance: A Cryptographically-Verified Framework for Fraud Prevention and Real-Time Regulatory Adherence in Distributed Accounting Systems
+AU  - Xianghan Zhang
+PY  - 2026
+T2  - DTM '25: Proceedings of the 2025 International Conference on Digital Transformation and Management
+DO  - 10.1145/3795546.3795569
+UR  - https://doi.org/10.1145/3795546.3795569
+ER  -
+
+TY  - JOUR
+TI  - Quantum-resistant Blockchain Cryptography-based Smart City Transactions
+AU  - Akoramurthy Balasubramaniam
+AU  - Surendiran B
+PY  - 2023
+T2  - IC3-2023: Proceedings of the 2023 Fifteenth International Conference on Contemporary Computing
+DO  - 10.1145/3607947.3607965
+UR  - https://doi.org/10.1145/3607947.3607965
+ER  -
+
+TY  - JOUR
+TI  - Practical Post-Quantum Signatures for Privacy
+AU  - Sven Argo
+AU  - Tim GΓΌneysu
+AU  - Corentin Jeudy
+AU  - Georg Land
+AU  - Adeline Roux-Langlois
+AU  - Olivier Sanders
+PY  - 2024
+T2  - CCS '24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3658644.3670297
+UR  - https://doi.org/10.1145/3658644.3670297
+ER  -
+
+TY  - JOUR
+TI  - Integrating Post-Quantum Cryptography in Document Lifecycle Management
+AU  - Ricardo A. Santa Quintero
+AU  - Sonia L. Meneses Velandia
+PY  - 2025
+T2  - CIIS '25: Proceedings of the 2025 8th International Conference on Systems Engineering - Cybersecurity & AI: Building a reliable digital future
+DO  - 10.1145/3771678.3771685
+UR  - https://doi.org/10.1145/3771678.3771685
+ER  -
+
+TY  - JOUR
+TI  - Efficient Post-Quantum Secure Deterministic Threshold Wallets from Isogenies
+AU  - Poulami Das
+AU  - Andreas Erwig
+AU  - Michael Meyer
+AU  - Patrick Struck
+PY  - 2024
+T2  - ASIA CCS '24: Proceedings of the 19th ACM Asia Conference on Computer and Communications Security
+DO  - 10.1145/3634737.3657008
+UR  - https://doi.org/10.1145/3634737.3657008
+ER  -
+
+TY  - JOUR
+TI  - A Post-Quantum Secure Digital Signature System for Cryptocurrency Transactions Based on SM3-SPHINCS+
+AU  - Kexin Tian
+AU  - Qing Zhang
+AU  - Bo Guo
+AU  - Hongxia Hou
+PY  - 2026
+T2  - CNSSE '26: Proceedings of the 2026 6th International Conference on Computer Network Security and Software Engineering
+DO  - 10.1145/3803633.3803643
+UR  - https://doi.org/10.1145/3803633.3803643
+ER  -
+
+TY  - JOUR
+TI  - A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum
+AU  - Muhammed F. Esgin
+AU  - Oguzhan Ersoy
+AU  - Veronika Kuchta
+AU  - Julian Loss
+AU  - Amin Sakzad
+AU  - Ron Steinfeld
+AU  - Xiangwen Yang
+AU  - Raymond K. Zhao
+PY  - 2023
+T2  - ASIA CCS '23: Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security
+DO  - 10.1145/3579856.3595792
+UR  - https://doi.org/10.1145/3579856.3595792
+ER  -
+
+TY  - JOUR
+TI  - Lattice-Based Group Signatures and Zero-Knowledge Proofs of Automorphism Stability
+AU  - Rafael del Pino
+AU  - Vadim Lyubashevsky
+AU  - Gregor Seiler
+PY  - 2018
+T2  - CCS '18: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3243734.3243852
+UR  - https://doi.org/10.1145/3243734.3243852
+ER  -
+
+TY  - JOUR
+TI  - Shorter and Faster Post-Quantum Designated-Verifier zkSNARKs from Lattices
+AU  - Yuval Ishai
+AU  - Hang Su
+AU  - David J. Wu
+PY  - 2021
+T2  - CCS '21: Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3460120.3484572
+UR  - https://doi.org/10.1145/3460120.3484572
+ER  -
+
+TY  - JOUR
+TI  - Ring-LWR based Commitments and ZK-PoKs with Application to Verifiable Quantum-Safe Searchable Symmetric Encryption
+AU  - Debadrita Talapatra
+AU  - Nimish Mishra
+AU  - Debdeep Mukhopadhyay
+PY  - 2025
+T2  - ASIA CCS '25: Proceedings of the 20th ACM Asia Conference on Computer and Communications Security
+DO  - 10.1145/3708821.3736223
+UR  - https://doi.org/10.1145/3708821.3736223
+ER  -
+
+TY  - JOUR
+TI  - Post quantum identity authentication mechanism in blockchain
+AU  - Peng Duan
+AU  - Bo Zhou
+PY  - 2023
+T2  - ICCIP '22: Proceedings of the 8th International Conference on Communication and Information Processing
+DO  - 10.1145/3571662.3571682
+UR  - https://doi.org/10.1145/3571662.3571682
+ER  -
+
+TY  - JOUR
+TI  - Post Quantum Fuzzy Stealth Signatures and Applications
+AU  - Sihang Pu
+AU  - Sri AravindaKrishnan Thyagarajan
+AU  - Nico DΓ¶ttling
+AU  - Lucjan Hanzlik
+PY  - 2023
+T2  - CCS '23: Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3576915.3623148
+UR  - https://doi.org/10.1145/3576915.3623148
+ER  -
+
+TY  - JOUR
+TI  - Quantum Safe Lattice-Based Single Round Online Collaborative Multi-Signature Scheme for Blockchain-Enabled IoT Applications
+AU  - Prithwi Bagchi
+AU  - Basudeb Bera
+AU  - Ashok Kumar Das
+AU  - Biplab Sikdar
+PY  - 2025
+T2  - ACM Transactions on Sensor Networks (TOSN), Volume 21, Issue 2
+DO  - 10.1145/3715696
+UR  - https://doi.org/10.1145/3715696
+ER  -
+
+TY  - JOUR
+TI  - Zero-knowledge against quantum attacks
+AU  - John Watrous
+PY  - 2006
+T2  - STOC '06: Proceedings of the thirty-eighth annual ACM symposium on Theory of Computing
+DO  - 10.1145/1132516.1132560
+UR  - https://doi.org/10.1145/1132516.1132560
+ER  -
+
+TY  - JOUR
+TI  - A Survey on Exotic Signatures for Post-quantum Blockchain: Challenges and Research Directions
+AU  - Maxime Buser
+AU  - Rafael Dowsley
+AU  - Muhammed Esgin
+AU  - ClΓ©mentine Gritti
+AU  - Shabnam Kasra Kermanshahi
+AU  - Veronika Kuchta
+AU  - Jason Legrow
+AU  - Joseph Liu
+AU  - RaphaΓ«l Phan
+AU  - Amin Sakzad
+AU  - Ron Steinfeld
+AU  - Jiangshan Yu
+PY  - 2023
+T2  - ACM Computing Surveys (CSUR), Volume 55, Issue 12
+DO  - 10.1145/3572771
+UR  - https://doi.org/10.1145/3572771
+ER  -
+
+TY  - JOUR
+TI  - Zero-Knowledge Identification Scheme Based on Symmetry Ergodic Matrices Exponentiation Problem
+AU  - Huawei Huang
+AU  - Yunyun Qu
+AU  - Lunzhi Deng
+PY  - 2017
+T2  - ICCSP '17: Proceedings of the 2017 International Conference on Cryptography, Security and Privacy
+DO  - 10.1145/3058060.3058084
+UR  - https://doi.org/10.1145/3058060.3058084
+ER  -
+
+TY  - JOUR
+TI  - Practical Quantum-Safe Voting from Lattices
+AU  - RafaΓ«l del Pino
+AU  - Vadim Lyubashevsky
+AU  - Gregory Neven
+AU  - Gregor Seiler
+PY  - 2017
+T2  - CCS '17: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3133956.3134101
+UR  - https://doi.org/10.1145/3133956.3134101
+ER  -
+
+TY  - JOUR
+TI  - From Pre-Quantum to Post-Quantum RSA
+AU  - Sandeep Joshi
+AU  - Amit Kumar Bairwa
+AU  - Anton Pavlovich Pljonkin
+AU  - Pradumn Garg
+AU  - Kshitij Agrawal
+PY  - 2023
+T2  - NISS '23: Proceedings of the 6th International Conference on Networking, Intelligent Systems & Security
+DO  - 10.1145/3607720.3607721
+UR  - https://doi.org/10.1145/3607720.3607721
+ER  -
+
+TY  - JOUR
+TI  - MatRiCT
+AU  - Muhammed F. Esgin
+AU  - Raymond K. Zhao
+AU  - Ron Steinfeld
+AU  - Joseph K. Liu
+AU  - Dongxi Liu
+PY  - 2019
+T2  - CCS '19: Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3319535.3354200
+UR  - https://doi.org/10.1145/3319535.3354200
+ER  -
+
+TY  - JOUR
+TI  - Lattice-Based Cryptography: From Protocol Design to Fast and Secure Implementation
+AU  - Ron Steinfeld
+PY  - 2024
+T2  - CCSW '24: Proceedings of the 2024 on Cloud Computing Security Workshop
+DO  - 10.1145/3689938.3694774
+UR  - https://doi.org/10.1145/3689938.3694774
+ER  -
+
+TY  - JOUR
+TI  - SoK: Blockchain Consensus in the Quantum Age
+AU  - Aleck Nash
+AU  - Christian Eduardo Terron Garcia
+AU  - Henry Chimal-Dzul
+AU  - Kim-Kwang Raymond Choo
+PY  - 2025
+T2  - BSCI '25: Proceedings of the 7th ACM International Symposium on Blockchain and Secure Critical Infrastructure
+DO  - 10.1145/3709016.3737798
+UR  - https://doi.org/10.1145/3709016.3737798
+ER  -
+
+TY  - JOUR
+TI  - Aggregating and Thresholdizing Hash-based Signatures using STARKs
+AU  - Irakliy Khaburzaniya
+AU  - Konstantinos Chalkias
+AU  - Kevin Lewi
+AU  - Harjasleen Malvai
+PY  - 2022
+T2  - ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security
+DO  - 10.1145/3488932.3524128
+UR  - https://doi.org/10.1145/3488932.3524128
+ER  -
+
+TY  - JOUR
+TI  - Proof-of-Possession for KEM Certificates using Verifiable Generation
+AU  - Tim GΓΌneysu
+AU  - Philip Hodges
+AU  - Georg Land
+AU  - Mike Ounsworth
+AU  - Douglas Stebila
+AU  - Greg Zaverucha
+PY  - 2022
+T2  - CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3548606.3560560
+UR  - https://doi.org/10.1145/3548606.3560560
+ER  -
+
+TY  - JOUR
+TI  - Surveying Quantum-Proof Blockchain Security: The Era of Exotic Signatures
+AU  - Rahat Naz
+AU  - Dr. Anuj Kumar
+PY  - 2024
+T2  - ICDCN '24: Proceedings of the 25th International Conference on Distributed Computing and Networking
+DO  - 10.1145/3631461.3631949
+UR  - https://doi.org/10.1145/3631461.3631949
+ER  -
+
+TY  - JOUR
+TI  - Hardware Security: State of the Art
+AU  - Ingrid Verbauwhede
+PY  - 2024
+T2  - ASHES '24: Proceedings of the 2024 Workshop on Attacks and Solutions in Hardware Security
+DO  - 10.1145/3689939.3695787
+UR  - https://doi.org/10.1145/3689939.3695787
+ER  -
+
+TY  - JOUR
+TI  - Ligero++: A New Optimized Sublinear IOP
+AU  - Rishabh Bhadauria
+AU  - Zhiyong Fang
+AU  - Carmit Hazay
+AU  - Muthuramakrishnan Venkitasubramaniam
+AU  - Tiancheng Xie
+AU  - Yupeng Zhang
+PY  - 2020
+T2  - CCS '20: Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3372297.3417893
+UR  - https://doi.org/10.1145/3372297.3417893
+ER  -
+
+TY  - JOUR
+TI  - Sphinx-in-the-Head: Group Signatures from Symmetric Primitives
+AU  - Liqun Chen
+AU  - Changyu Dong
+AU  - Christopher J. P. Newton
+AU  - Yalan Wang
+PY  - 2024
+T2  - ACM Transactions on Privacy and Security (TOPS), Volume 27, Issue 1
+DO  - 10.1145/3638763
+UR  - https://doi.org/10.1145/3638763
+ER  -
+

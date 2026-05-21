@@ -1,0 +1,9 @@
+﻿Decision,Recommendation,Reason
+Search order,Complete IEEE Xplore and ACM DL before final full-text assessment,"Sequential searching is fine, but final PRISMA screening should be based on a merged, deduplicated all-source master set."
+Current Scopus work,"Treat as pilot/calibration, not final PRISMA corpus",It calibrated inclusion/exclusion criteria and gave a provisional Scopus-only estimate.
+Dedup rule,"Merge all database exports, then deduplicate globally","Dedup should use DOI, title/year/source, EID/article number, and manual checks for conference/book versions."
+Screening rule,Reuse Scopus screening decisions where the same record reappears,"After global dedup, retain decisions for matched Scopus records and screen only new unique records."
+Google Scholar,Use as supplementary with bounded stopping rule,"Scholar is less reproducible than bibliographic databases, so document query date, first N results, and stopping criteria."
+Full-text stage,Pause final full-text eligibility until all-source screening is complete,"Full-text decisions should apply to the final candidate set, not only Scopus."
+
+

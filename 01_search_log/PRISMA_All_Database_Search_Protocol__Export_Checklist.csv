@@ -1,0 +1,9 @@
+﻿Step,Check,Notes
+1,"Record exact query, date, database, filters, raw hits, filtered hits",Add each run to PRISMA_Search_Log or this protocol workbook.
+2,Export CSV plus RIS/BibTeX where possible,CSV is best for dedup metadata; RIS/BibTeX useful for Zotero/reference manager.
+3,Do not manually delete records before export,All filtering decisions should be reproducible and logged.
+4,Keep database exports in source-specific folders,Use the new folders created in the project root.
+5,"After all exports, create all-source master",Deduplicate globally before final screening counts.
+6,Label Scopus-only files as interim,Avoid mixing interim counts with final PRISMA flow.
+
+

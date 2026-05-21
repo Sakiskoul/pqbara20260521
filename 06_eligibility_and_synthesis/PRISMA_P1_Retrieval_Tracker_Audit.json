@@ -1,0 +1,21 @@
+﻿{
+  "starter_records": 100,
+  "batch01_records": 25,
+  "doi_coverage": 100,
+  "openalex_enriched": 99,
+  "openalex_oa": 23,
+  "oa_shortlist": 23,
+  "retrieved_oa_pdfs": 6,
+  "platforms": {
+    "IEEE Xplore": 75,
+    "ACM Digital Library": 5,
+    "ScienceDirect": 1,
+    "SpringerLink": 4,
+    "Nature/Springer": 1,
+    "Publisher via DOI": 9,
+    "Wiley": 2,
+    "MDPI": 2,
+    "Taylor & Francis": 1
+  }
+}
+

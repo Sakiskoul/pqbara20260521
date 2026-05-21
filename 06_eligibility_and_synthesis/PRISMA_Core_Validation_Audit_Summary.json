@@ -1,0 +1,208 @@
+﻿{
+  "core_records": 69,
+  "high_risk_records": 50,
+  "local_full_text_available": 28,
+  "missing_local_full_text": 41,
+  "supported_classification": 60,
+  "partially_supported_classification": 9,
+  "needs_manual_full_text_check": 0,
+  "user_pdf_extractions": [
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\1-s2.0-S2096720923000040-main.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\1-s2.0-S2096720923000040-main.txt",
+      "status": "existing",
+      "bytes": 1620971
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\1-s2.0-S2096720923000404-main.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\1-s2.0-S2096720923000404-main.txt",
+      "status": "existing",
+      "bytes": 2578651
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\1-s2.0-S209672092400006X-main.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\1-s2.0-S209672092400006X-main.txt",
+      "status": "existing",
+      "bytes": 24091688
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\computers-15-00240.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\computers-15-00240.txt",
+      "status": "existing",
+      "bytes": 2059335
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\1-s2.0-S1574013725001224-main.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\1-s2.0-S1574013725001224-main.txt",
+      "status": "existing",
+      "bytes": 5795943
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\1-s2.0-S2667096826000030-main.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\1-s2.0-S2667096826000030-main.txt",
+      "status": "existing",
+      "bytes": 11996861
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\2020-1346.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\2020-1346.txt",
+      "status": "existing",
+      "bytes": 641073
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\2020-186.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\2020-186.txt",
+      "status": "existing",
+      "bytes": 1104693
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\2021-1618.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\2021-1618.txt",
+      "status": "existing",
+      "bytes": 660403
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\2022-627.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\2022-627.txt",
+      "status": "existing",
+      "bytes": 604554
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\applsci-14-00832-v2.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\applsci-14-00832-v2.txt",
+      "status": "existing",
+      "bytes": 3001045
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\cryptography-09-00022.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\cryptography-09-00022.txt",
+      "status": "existing",
+      "bytes": 4879159
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\CryptographyinDistributedLedgerTechnologiesfromaLayeredPerspectiveAStateoftheArt.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\CryptographyinDistributedLedgerTechnologiesfromaLayeredPerspectiveAStateoftheArt.txt",
+      "status": "existing",
+      "bytes": 271005
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\Fortifying_the_Blockchain_A_Systematic_Review_and_Classification_of_Post-Quantum_Consensus_Solutions_for_Enhanced_Security_and_Resilience.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\Fortifying_the_Blockchain_A_Systematic_Review_and_Classification_of_Post-Quantum_Consensus_Solutions_for_Enhanced_Security_and_Resilience.txt",
+      "status": "existing",
+      "bytes": 979822
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\high risk\\A_Blockchain_Framework_in_Post-Quantum_Decentralization(5).pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\A_Blockchain_Framework_in_Post-Quantum_Decentralization(5).txt",
+      "status": "existing",
+      "bytes": 5136654
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\high risk\\Towards_Post-Quantum_Blockchain_A_Review_on_Blockchain_Cryptography_Resistant_to_Quantum_Computing_Attacks.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\Towards_Post-Quantum_Blockchain_A_Review_on_Blockchain_Cryptography_Resistant_to_Quantum_Computing_Attacks.txt",
+      "status": "existing",
+      "bytes": 4435567
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\high risk\\yokubov2021.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\yokubov2021.txt",
+      "status": "existing",
+      "bytes": 390170
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\Improving_Bitcoins_Post-Quantum_Transaction_Efficiency_With_a_Novel_Lattice-Based_Aggregate_Signature_Scheme_Based_on_CRYSTALS-Dilithium_and_a_STARK_Protocol.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\Improving_Bitcoins_Post-Quantum_Transaction_Efficiency_With_a_Novel_Lattice-Based_Aggregate_Signature_Scheme_Based_on_CRYSTALS-Dilithium_and_a_STARK_Protocol.txt",
+      "status": "existing",
+      "bytes": 1329429
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\li2021.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\li2021.txt",
+      "status": "existing",
+      "bytes": 4926637
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\mathematics-08-02218.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\mathematics-08-02218.txt",
+      "status": "existing",
+      "bytes": 290593
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\p781-hosain.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\p781-hosain.txt",
+      "status": "existing",
+      "bytes": 168186
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\PostQuantum.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\PostQuantum.txt",
+      "status": "existing",
+      "bytes": 716277
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\rsos.180410.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\rsos.180410.txt",
+      "status": "existing",
+      "bytes": 543587
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\saha2021.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\saha2021.txt",
+      "status": "existing",
+      "bytes": 5136546
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\Security and Communication Networks - 2022 - Li - A Lamusβ€Based Flight Data Sharing Model on Consortium Blockchain.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\Security and Communication Networks - 2022 - Li - A Lamusβ€Based Flight Data Sharing Model on Consortium Blockchain.txt",
+      "status": "existing",
+      "bytes": 654349
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\Security and Communication Networks - 2022 - Xie - A New Latticeβ€Based Blind Ring Signature for Completely Anonymous.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\Security and Communication Networks - 2022 - Xie - A New Latticeβ€Based Blind Ring Signature for Completely Anonymous.txt",
+      "status": "existing",
+      "bytes": 555154
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\SodsBC-SodsBC-amp-SodsMPC-Post-quantum-Asynchronous-Blockchain-Suite-for-Consensus-and-Smart.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\SodsBC-SodsBC-amp-SodsMPC-Post-quantum-Asynchronous-Blockchain-Suite-for-Consensus-and-Smart.txt",
+      "status": "existing",
+      "bytes": 171272
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\new\\yokubov2021.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\yokubov2021.txt",
+      "status": "existing",
+      "bytes": 390170
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\Quantum-Resistant_Security_for_Blockchain-Enabled_6G_Networks_A_Comprehensive_Review.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\Quantum-Resistant_Security_for_Blockchain-Enabled_6G_Networks_A_Comprehensive_Review.txt",
+      "status": "existing",
+      "bytes": 7157818
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\Review\\IEEE\\cover_letter.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\cover_letter.txt",
+      "status": "existing",
+      "bytes": 56822
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\Review\\IEEE\\Preparation_of_Papers_for_IEEE_ACCESS\\access.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\access.txt",
+      "status": "existing",
+      "bytes": 11630418
+    },
+    {
+      "pdf": "<LOCAL_PAPERS_PATH>\\s40507-025-00414-6.pdf",
+      "text": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\Full_Texts\\User_Provided_Text\\s40507-025-00414-6.txt",
+      "status": "existing",
+      "bytes": 2097229
+    }
+  ],
+  "outputs": {
+    "csv": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\PRISMA_Core_Validation_Audit.csv",
+    "xlsx": "<LOCAL_PRISMA_PATH>\\06_Included_Papers\\PRISMA_Core_Validation_Audit.xlsx"
+  }
+}
+

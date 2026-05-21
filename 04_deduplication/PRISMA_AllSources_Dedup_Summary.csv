@@ -1,0 +1,14 @@
+﻿Metric,Value,Notes
+Raw records from Scopus exports,4755,All filtered Scopus rows before dedup
+Raw records from IEEE Xplore exports,3061,All filtered IEEE rows before dedup
+Raw records from ACM Digital Library exports,232,All ACM CSV rows before dedup
+Raw records from SpringerLink exports,14245,All SpringerLink CSV rows before dedup
+Total raw records identified,22293,Before global deduplication
+Unique records after global dedup,12291,Dedup by DOI/source id/title-year fallback
+Duplicate rows removed globally,10002,Raw records minus unique records
+Records with carried Scopus screening,2566,Matched to existing Scopus screening decision
+New records needing screening,9725,Unique records newly introduced by IEEE/ACM/Springer
+Potential title/year duplicate rows,81,Manual review; not automatically merged
+Screening decision conflicts in merged duplicate groups,0,Manual review recommended
+
+

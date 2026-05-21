@@ -1,0 +1,50 @@
+﻿TY  - JOUR
+TI  - QRSec 2025: ACM CCS First Workshop on Quantum-Resistant Cryptography and Security
+AU  - Ashish Kundu
+AU  - Attila A. Yavuz
+AU  - Cristina Nita-Rotaru
+PY  - 2025
+T2  - CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3719027.3767669
+UR  - https://doi.org/10.1145/3719027.3767669
+ER  -
+
+TY  - JOUR
+TI  - Poster: Post-Quantum Readiness in EdDSA Chains
+AU  - Kostas Kryptos Chalkias
+PY  - 2025
+T2  - CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3719027.3760734
+UR  - https://doi.org/10.1145/3719027.3760734
+ER  -
+
+TY  - JOUR
+TI  - poqeth: Efficient, post-quantum signature verification on Ethereum
+AU  - Ruslan Kysil
+AU  - IstvΓ΅n AndrΓ΅s Seres
+AU  - PΓ©ter Kutas
+AU  - NΓ΅ndor KelecsΓ©nyi
+PY  - 2025
+T2  - ASIA CCS '25: Proceedings of the 20th ACM Asia Conference on Computer and Communications Security
+DO  - 10.1145/3708821.3736193
+UR  - https://doi.org/10.1145/3708821.3736193
+ER  -
+
+TY  - JOUR
+TI  - Blockchain-Based Smart Contracts for Automated Payroll and Tax Compliance: A Cryptographically-Verified Framework for Fraud Prevention and Real-Time Regulatory Adherence in Distributed Accounting Systems
+AU  - Xianghan Zhang
+PY  - 2026
+T2  - DTM '25: Proceedings of the 2025 International Conference on Digital Transformation and Management
+DO  - 10.1145/3795546.3795569
+UR  - https://doi.org/10.1145/3795546.3795569
+ER  -
+
+TY  - JOUR
+TI  - Security Challenges Posed by Quantum Computing on Emerging Technologies
+AU  - Abdelrahman Abuarqoub
+PY  - 2021
+T2  - ICFNDS '20: Proceedings of the 4th International Conference on Future Networks and Distributed Systems
+DO  - 10.1145/3440749.3442651
+UR  - https://doi.org/10.1145/3440749.3442651
+ER  -
+

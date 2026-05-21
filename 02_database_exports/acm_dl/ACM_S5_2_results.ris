@@ -1,0 +1,575 @@
+﻿TY  - JOUR
+TI  - Anonymous Blockchain-based System for Consortium
+AU  - Qin Wang
+AU  - Shiping Chen
+AU  - Yang Xiang
+PY  - 2021
+T2  - ACM Transactions on Management Information Systems (TMIS), Volume 12, Issue 3
+DO  - 10.1145/3459087
+UR  - https://doi.org/10.1145/3459087
+ER  -
+
+TY  - JOUR
+TI  - Hunion Traceability: A New Type of Blockchain Traceability System Based on SM2, SM3 and SM4
+AU  - Shenhui Zhang
+AU  - Hao Meng
+AU  - Xiulai Li
+AU  - Weiwei Liu
+AU  - Bernie Liu
+PY  - 2022
+T2  - ICBTA '21: Proceedings of the 2021 4th International Conference on Blockchain Technology and Applications
+DO  - 10.1145/3510487.3510503
+UR  - https://doi.org/10.1145/3510487.3510503
+ER  -
+
+TY  - JOUR
+TI  - An Identity-based Group Signature Approach on Decentralized System and Chinese Cryptographic SM2
+AU  - Jiaxi Liu
+AU  - Tianyu Kang
+AU  - Li Guo
+PY  - 2023
+T2  - ICCIP '22: Proceedings of the 8th International Conference on Communication and Information Processing
+DO  - 10.1145/3571662.3571683
+UR  - https://doi.org/10.1145/3571662.3571683
+ER  -
+
+TY  - JOUR
+TI  - TrustedAP: Using the Ethereum Blockchain to Mitigate the Evil Twin Attack
+AU  - Phil Fox
+PY  - 2021
+T2  - SIGCSE '21: Proceedings of the 52nd ACM Technical Symposium on Computer Science Education
+DO  - 10.1145/3408877.3439695
+UR  - https://doi.org/10.1145/3408877.3439695
+ER  -
+
+TY  - JOUR
+TI  - Design of a Multi-Source Data Fusionβ€“Based Collaborative Telecom Fraud Prevention System
+AU  - Zengyu He
+AU  - Mingmin Gong
+AU  - Huanjuan Xu
+AU  - Shengjie Cao
+PY  - 2026
+T2  - ICBAR '25: Proceedings of the 2025 5th International Conference on Big Data, Artificial Intelligence and Risk Management
+DO  - 10.1145/3800227.3800355
+UR  - https://doi.org/10.1145/3800227.3800355
+ER  -
+
+TY  - JOUR
+TI  - SAMPL
+AU  - Gaurav Panwar
+AU  - Roopa Vishwanathan
+AU  - Satyajayant Misra
+AU  - Austin Bos
+PY  - 2019
+T2  - CCS '19: Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3319535.3354219
+UR  - https://doi.org/10.1145/3319535.3354219
+ER  -
+
+TY  - JOUR
+TI  - Truthful, Credible, and Optimal Auctions for Matroids via Blockchains and Commitments
+AU  - Aadityan Ganesh
+AU  - Qianfan Zhang
+PY  - 2025
+T2  - EC '25: Proceedings of the 26th ACM Conference on Economics and Computation
+DO  - 10.1145/3736252.3742652
+UR  - https://doi.org/10.1145/3736252.3742652
+ER  -
+
+TY  - JOUR
+TI  - Security and Privacy of Patient Information in Medical Systems Based on Blockchain Technology
+AU  - Hongjiao Wu
+AU  - Ashutosh Dhar Dwivedi
+AU  - Gautam Srivastava
+PY  - 2021
+T2  - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Volume 17, Issue 2s
+DO  - 10.1145/3408321
+UR  - https://doi.org/10.1145/3408321
+ER  -
+
+TY  - JOUR
+TI  - Introducing the Open Science Chain
+AU  - Subhashini Sivagnanam
+AU  - Viswanath Nandigam
+AU  - Kai Lin
+PY  - 2019
+T2  - PEARC '19: Practice and Experience in Advanced Research Computing 2019: Rise of the Machines (learning)
+DO  - 10.1145/3332186.3332203
+UR  - https://doi.org/10.1145/3332186.3332203
+ER  -
+
+TY  - JOUR
+TI  - Integrating Blockchain Technology in Healthcare via Active Learning
+AU  - Bertony Bornelus
+AU  - Hongmei Chi
+AU  - Guillermo A. Francia
+PY  - 2020
+T2  - ACMSE '20: Proceedings of the 2020 ACM Southeast Conference
+DO  - 10.1145/3374135.3385275
+UR  - https://doi.org/10.1145/3374135.3385275
+ER  -
+
+TY  - JOUR
+TI  - Exploration and impact of blockchain-enabled adaptive non-binary trust models
+AU  - David W. Kravitz
+PY  - 2019
+T2  - ICDCN '19: Proceedings of the 20th International Conference on Distributed Computing and Networking
+DO  - 10.1145/3288599.3288639
+UR  - https://doi.org/10.1145/3288599.3288639
+ER  -
+
+TY  - JOUR
+TI  - Enabling Enterprise Blockchain Interoperability with Trusted Data Transfer (Industry Track)
+AU  - Ermyas Abebe
+AU  - Dushyant Behl
+AU  - Chander Govindarajan
+AU  - Yining Hu
+PY  - 2019
+T2  - Middleware '19: Proceedings of the 20th International Middleware Conference Industrial Track
+DO  - 10.1145/3366626.3368129
+UR  - https://doi.org/10.1145/3366626.3368129
+ER  -
+
+TY  - JOUR
+TI  - Characterizing the Solana NFT Ecosystem
+AU  - Dechao Kong
+AU  - Xiaoqi Li
+AU  - Wenkai Li
+PY  - 2024
+T2  - WWW '24: Companion Proceedings of the ACM Web Conference 2024
+DO  - 10.1145/3589335.3651478
+UR  - https://doi.org/10.1145/3589335.3651478
+ER  -
+
+TY  - JOUR
+TI  - A Novel Blockchain-based Education Records Verification Solution
+AU  - Meng Han
+AU  - Zhigang Li
+AU  - Jing (Selena) He
+AU  - Dalei Wu
+AU  - Ying Xie
+AU  - Asif Baba
+PY  - 2018
+T2  - SIGITE '18: Proceedings of the 19th Annual SIG Conference on Information Technology Education
+DO  - 10.1145/3241815.3241870
+UR  - https://doi.org/10.1145/3241815.3241870
+ER  -
+
+TY  - JOUR
+TI  - A Personal Data Determination Method Based On Blockchain Technology and Smart Contract
+AU  - Hongman Wang
+AU  - Yongbin Yuan
+AU  - Fangchun Yang
+PY  - 2020
+T2  - ICCSP 2020: Proceedings of the 2020 4th International Conference on Cryptography, Security and Privacy
+DO  - 10.1145/3377644.3377656
+UR  - https://doi.org/10.1145/3377644.3377656
+ER  -
+
+TY  - JOUR
+TI  - Distributed ledgers and blockchain
+AU  - Asic Chen
+AU  - Arno Jacob-sen
+PY  - 2018
+T2  - CASCON '18: Proceedings of the 28th Annual International Conference on Computer Science and Software Engineering
+DO  - 10.5555/3291291.3291363
+UR  - https://doi.org/10.5555/3291291.3291363
+ER  -
+
+TY  - JOUR
+TI  - Design and implementation of cast-as-intended verifiability for a blockchain-based voting system
+AU  - Christian Killer
+AU  - Bruno Rodrigues
+AU  - Raphael Matile
+AU  - Eder Scheid
+AU  - Burkhard Stiller
+PY  - 2020
+T2  - SAC '20: Proceedings of the 35th Annual ACM Symposium on Applied Computing
+DO  - 10.1145/3341105.3373884
+UR  - https://doi.org/10.1145/3341105.3373884
+ER  -
+
+TY  - JOUR
+TI  - Offline Authentication Scheme based on Blockchain Technology for Smart Lock
+AU  - Daoqi Han
+AU  - Yueming Lu
+AU  - Xiaofeng Du
+AU  - Jiefu Gan
+PY  - 2018
+T2  - ICTCE '18: Proceedings of the 2nd International Conference on Telecommunications and Communication Engineering
+DO  - 10.1145/3291842.3291893
+UR  - https://doi.org/10.1145/3291842.3291893
+ER  -
+
+TY  - JOUR
+TI  - Privacy-Preserving Online Parking Based on Smart Contracts
+AU  - Petr Dzurenda
+AU  - Carles AnglΓ¨s Tafalla
+AU  - Sara Ricci
+AU  - Lukas Malina
+PY  - 2021
+T2  - ARES '21: Proceedings of the 16th International Conference on Availability, Reliability and Security
+DO  - 10.1145/3465481.3470058
+UR  - https://doi.org/10.1145/3465481.3470058
+ER  -
+
+TY  - JOUR
+TI  - Secure and Reliable Network Updates
+AU  - James Lembke
+AU  - Srivatsan Ravi
+AU  - Pierre-Louis Roman
+AU  - Patrick Eugster
+PY  - 2022
+T2  - ACM Transactions on Privacy and Security (TOPS), Volume 26, Issue 1
+DO  - 10.1145/3556542
+UR  - https://doi.org/10.1145/3556542
+ER  -
+
+TY  - JOUR
+TI  - Lite-PoT: Practical Powers-of-Tau Setup Ceremony
+AU  - Lucien K. L. Ng
+AU  - Pedro Moreno-Sanchez
+AU  - Mohsen Minaei
+AU  - Panagiotis Chatzigiannis
+PY  - 2025
+T2  - CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3719027.3765182
+UR  - https://doi.org/10.1145/3719027.3765182
+ER  -
+
+TY  - JOUR
+TI  - Truver
+AU  - Ahmed Taha
+AU  - Ahmed Zakaria
+PY  - 2020
+T2  - SAC '20: Proceedings of the 35th Annual ACM Symposium on Applied Computing
+DO  - 10.1145/3341105.3374067
+UR  - https://doi.org/10.1145/3341105.3374067
+ER  -
+
+TY  - JOUR
+TI  - Public Accountability vs. Secret Laws: Can They Coexist?
+AU  - Shafi Goldwasser
+AU  - Sunoo Park
+PY  - 2017
+T2  - WPES '17: Proceedings of the 2017 on Workshop on Privacy in the Electronic Society
+DO  - 10.1145/3139550.3139565
+UR  - https://doi.org/10.1145/3139550.3139565
+ER  -
+
+TY  - JOUR
+TI  - Aggregating and Thresholdizing Hash-based Signatures using STARKs
+AU  - Irakliy Khaburzaniya
+AU  - Konstantinos Chalkias
+AU  - Kevin Lewi
+AU  - Harjasleen Malvai
+PY  - 2022
+T2  - ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security
+DO  - 10.1145/3488932.3524128
+UR  - https://doi.org/10.1145/3488932.3524128
+ER  -
+
+TY  - JOUR
+TI  - Thora
+AU  - Lukas Aumayr
+AU  - Kasra Abbaszadeh
+AU  - Matteo Maffei
+PY  - 2022
+T2  - CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3548606.3560556
+UR  - https://doi.org/10.1145/3548606.3560556
+ER  -
+
+TY  - JOUR
+TI  - Toward distributed key management for offline authentication
+AU  - Gregory Linklater
+AU  - Christian Smith
+AU  - Alan Herbert
+AU  - Barry Irwin
+PY  - 2018
+T2  - SAICSIT '18: Proceedings of the Annual Conference of the South African Institute of Computer Scientists and Information Technologists
+DO  - 10.1145/3278681.3278683
+UR  - https://doi.org/10.1145/3278681.3278683
+ER  -
+
+TY  - JOUR
+TI  - DECOUPLES
+AU  - Mourad El Maouchi
+AU  - OΔuzhan Ersoy
+AU  - Zekeriya Erkin
+PY  - 2019
+T2  - SAC '19: Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing
+DO  - 10.1145/3297280.3297318
+UR  - https://doi.org/10.1145/3297280.3297318
+ER  -
+
+TY  - JOUR
+TI  - Picking a Partner
+AU  - Yousef Alowayed
+AU  - Marco Canini
+AU  - Pedro Marcos
+AU  - Marco Chiesa
+AU  - Marinho Barcellos
+PY  - 2018
+T2  - ANRW '18: Proceedings of the 2018 Applied Networking Research Workshop
+DO  - 10.1145/3232755.3232785
+UR  - https://doi.org/10.1145/3232755.3232785
+ER  -
+
+TY  - JOUR
+TI  - Ethereum Attestation Service as a solution for the revocation of hardware-based password-less mechanisms
+AU  - Biagio Boi
+AU  - Christian Esposito
+AU  - Jung Taek Seo
+PY  - 2024
+T2  - SAC '24: Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing
+DO  - 10.1145/3605098.3636004
+UR  - https://doi.org/10.1145/3605098.3636004
+ER  -
+
+TY  - JOUR
+TI  - Linear View Change in Optimistically Fast BFT
+AU  - Matthieu Rambaud
+AU  - Andrei Tonkikh
+AU  - Mark Abspoel
+PY  - 2022
+T2  - ConsensusDay '22: Proceedings of the 2022 ACM Workshop on Developments in Consensus
+DO  - 10.1145/3560829.3563562
+UR  - https://doi.org/10.1145/3560829.3563562
+ER  -
+
+TY  - JOUR
+TI  - NFTGAN: Non-Fungible Token Art Generation Using Generative Adversarial Networks
+AU  - Sakib Shahriar
+AU  - Kadhim Hayawi
+PY  - 2022
+T2  - ICMLT '22: Proceedings of the 2022 7th International Conference on Machine Learning Technologies
+DO  - 10.1145/3529399.3529439
+UR  - https://doi.org/10.1145/3529399.3529439
+ER  -
+
+TY  - JOUR
+TI  - Enabling Qualified Anonymity for Enhanced User Privacy in the Digital Era
+AU  - Vaios Bolgouras
+AU  - Konstantinos Papadamou
+AU  - Ioana Stroinea
+AU  - Michail Papadakis
+PY  - 2023
+T2  - ARES '23: Proceedings of the 18th International Conference on Availability, Reliability and Security
+DO  - 10.1145/3600160.3605075
+UR  - https://doi.org/10.1145/3600160.3605075
+ER  -
+
+TY  - JOUR
+TI  - Paralysis Proofs
+AU  - Fan Zhang
+AU  - Philip Daian
+AU  - Iddo Bentov
+AU  - Ian Miers
+AU  - Ari Juels
+PY  - 2019
+T2  - AFT '19: Proceedings of the 1st ACM Conference on Advances in Financial Technologies
+DO  - 10.1145/3318041.3355459
+UR  - https://doi.org/10.1145/3318041.3355459
+ER  -
+
+TY  - JOUR
+TI  - Reflections on trusting distributed trust
+AU  - Emma Dauterman
+AU  - Vivian Fang
+AU  - Natacha Crooks
+AU  - Raluca Ada Popa
+PY  - 2022
+T2  - HotNets '22: Proceedings of the 21st ACM Workshop on Hot Topics in Networks
+DO  - 10.1145/3563766.3564089
+UR  - https://doi.org/10.1145/3563766.3564089
+ER  -
+
+TY  - JOUR
+TI  - On Bitcoin cash's target recalculation functions
+AU  - Juan Garay
+AU  - Yu Shen
+PY  - 2021
+T2  - AFT '21: Proceedings of the 3rd ACM Conference on Advances in Financial Technologies
+DO  - 10.1145/3479722.3480998
+UR  - https://doi.org/10.1145/3479722.3480998
+ER  -
+
+TY  - JOUR
+TI  - Order-Fair Consensus in the Permissionless Setting
+AU  - Mahimna Kelkar
+AU  - Soubhik Deb
+AU  - Sreeram Kannan
+PY  - 2022
+T2  - APKC '22: Proceedings of the 9th ACM on ASIA Public-Key Cryptography Workshop
+DO  - 10.1145/3494105.3526239
+UR  - https://doi.org/10.1145/3494105.3526239
+ER  -
+
+TY  - JOUR
+TI  - Strengthening fawkescoin against double spending attack using merkle tree
+AU  - Widya Wirachantika
+AU  - Ari Moesriami Barmawi
+AU  - Bambang Ari Wahyudi
+PY  - 2019
+T2  - ICCSP '19: Proceedings of the 3rd International Conference on Cryptography, Security and Privacy
+DO  - 10.1145/3309074.3309105
+UR  - https://doi.org/10.1145/3309074.3309105
+ER  -
+
+TY  - JOUR
+TI  - Privacy Breaches in Smart Contract due to Solidity Language and its Protection
+AU  - Nazia Abrar
+AU  - Muhammad Faraz Hyder
+AU  - Muhammad Kamran
+AU  - Muhammad Mubashir Khan
+PY  - 2022
+T2  - ICFNDS '21: Proceedings of the 5th International Conference on Future Networks and Distributed Systems
+DO  - 10.1145/3508072.3508225
+UR  - https://doi.org/10.1145/3508072.3508225
+ER  -
+
+TY  - JOUR
+TI  - Generalized Proof of Liabilities
+AU  - Yan Ji
+AU  - Konstantinos Chalkias
+PY  - 2021
+T2  - CCS '21: Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3460120.3484802
+UR  - https://doi.org/10.1145/3460120.3484802
+ER  -
+
+TY  - JOUR
+TI  - VeriDKG: A Verifiable SPARQL Query Engine for Decentralized Knowledge Graphs
+AU  - Enyuan Zhou
+AU  - Song Guo
+AU  - Zicong Hong
+AU  - Christian S. Jensen
+AU  - Yang Xiao
+PY  - 2023
+T2  - Proceedings of the VLDB Endowment (PVLDB), Volume 17, Issue 4
+DO  - 10.14778/3636218.3636242
+UR  - https://doi.org/10.14778/3636218.3636242
+ER  -
+
+TY  - JOUR
+TI  - Pipelonk: Accelerating End-to-End Zero-Knowledge Proof Generation on GPUs for PLONK-Based Protocols
+AU  - Zhiyuan Zhang
+AU  - Yanxin Cai
+AU  - Wenhao Yin
+AU  - Xueyu Wu
+AU  - Yi Wang
+AU  - Lei Ju
+PY  - 2026
+T2  - PPoPP '26: Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming
+DO  - 10.1145/3774934.3786448
+UR  - https://doi.org/10.1145/3774934.3786448
+ER  -
+
+TY  - JOUR
+TI  - Topgun: An ECC Accelerator for Private Set Intersection
+AU  - Guiming Wu
+AU  - Qianwen He
+AU  - Jiali Jiang
+AU  - Zhenxiang Zhang
+AU  - Yuan Zhao
+PY  - 2023
+T2  - ACM Transactions on Reconfigurable Technology and Systems (TRETS), Volume 16, Issue 4
+DO  - 10.1145/3603114
+UR  - https://doi.org/10.1145/3603114
+ER  -
+
+TY  - JOUR
+TI  - HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted
+AU  - Yanxue Jia
+AU  - Varun Madathil
+AU  - Aniket Kate
+PY  - 2024
+T2  - CCS '24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3658644.3670381
+UR  - https://doi.org/10.1145/3658644.3670381
+ER  -
+
+TY  - JOUR
+TI  - Challenges for Combining Smart Contracts with Trusted Computing
+AU  - Marcus Brandenburger
+AU  - Christian Cachin
+PY  - 2018
+T2  - SysTEX '18: Proceedings of the 3rd Workshop on System Software for Trusted Execution
+DO  - 10.1145/3268935.3268944
+UR  - https://doi.org/10.1145/3268935.3268944
+ER  -
+
+TY  - JOUR
+TI  - Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs
+AU  - Alhad Daftardar
+AU  - Jianqiao Mo
+AU  - Joey Ah-kiow
+AU  - Benedikt BΓΌnz
+AU  - Ramesh Karri
+PY  - 2025
+T2  - ISCA '25: Proceedings of the 52nd Annual International Symposium on Computer Architecture
+DO  - 10.1145/3695053.3731021
+UR  - https://doi.org/10.1145/3695053.3731021
+ER  -
+
+TY  - JOUR
+TI  - Supply chain optimization: cross-chain data privacy protection scheme based on semi-homomorphic encryption.
+AU  - Yahui Guo
+AU  - Zhiming Cai
+AU  - Jian Chen
+AU  - Shanwen Hu
+PY  - 2024
+T2  - CNSCT '24: Proceedings of the 2024 3rd International Conference on Cryptography, Network Security and Communication Technology
+DO  - 10.1145/3673277.3673293
+UR  - https://doi.org/10.1145/3673277.3673293
+ER  -
+
+TY  - JOUR
+TI  - UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping
+AU  - Cheng Wang
+AU  - Mingyu Gao
+PY  - 2025
+T2  - ASPLOS '25: Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1
+DO  - 10.1145/3669940.3707228
+UR  - https://doi.org/10.1145/3669940.3707228
+ER  -
+
+TY  - JOUR
+TI  - One-shot signatures and applications to hybrid quantum/classical authentication
+AU  - Ryan Amos
+AU  - Marios Georgiou
+AU  - Aggelos Kiayias
+AU  - Mark Zhandry
+PY  - 2020
+T2  - STOC 2020: Proceedings of the 52nd Annual ACM SIGACT Symposium on Theory of Computing
+DO  - 10.1145/3357713.3384304
+UR  - https://doi.org/10.1145/3357713.3384304
+ER  -
+
+TY  - JOUR
+TI  - A verified algebraic representation of cairo program execution
+AU  - Jeremy Avigad
+AU  - Lior Goldberg
+AU  - David Levit
+AU  - Yoav Seginer
+AU  - Alon Titelman
+PY  - 2022
+T2  - CPP 2022: Proceedings of the 11th ACM SIGPLAN International Conference on Certified Programs and Proofs
+DO  - 10.1145/3497775.3503675
+UR  - https://doi.org/10.1145/3497775.3503675
+ER  -
+
+TY  - JOUR
+TI  - Succinct Zero-Knowledge Batch Proofs for Set Accumulators
+AU  - Matteo Campanelli
+AU  - Dario Fiore
+AU  - Semin Han
+AU  - Jihye Kim
+AU  - Dimitris Kolonelos
+PY  - 2022
+T2  - CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3548606.3560677
+UR  - https://doi.org/10.1145/3548606.3560677
+ER  -
+

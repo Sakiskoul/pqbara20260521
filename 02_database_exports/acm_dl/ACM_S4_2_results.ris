@@ -1,0 +1,191 @@
+﻿TY  - JOUR
+TI  - Hardware Security: state of the art
+AU  - Ingrid Verbauwhede
+PY  - 2025
+T2  - CF '25: Proceedings of the 22nd ACM International Conference on Computing Frontiers
+DO  - 10.1145/3719276.3733671
+UR  - https://doi.org/10.1145/3719276.3733671
+ER  -
+
+TY  - JOUR
+TI  - Deterministic Wallets in a Quantum World
+AU  - Nabil Alkeilani Alkadri
+AU  - Poulami Das
+AU  - Andreas Erwig
+AU  - Sebastian Faust
+PY  - 2020
+T2  - CCS '20: Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3372297.3423361
+UR  - https://doi.org/10.1145/3372297.3423361
+ER  -
+
+TY  - JOUR
+TI  - An Efficient Quantum Parallel Repetition Theorem and Applications
+AU  - John Bostanci
+AU  - Luowen Qian
+AU  - Nicholas Spooner
+AU  - Henry Yuen
+PY  - 2024
+T2  - STOC 2024: Proceedings of the 56th Annual ACM Symposium on Theory of Computing
+DO  - 10.1145/3618260.3649603
+UR  - https://doi.org/10.1145/3618260.3649603
+ER  -
+
+TY  - JOUR
+TI  - Random Beacons in Monte Carlo: Efficient Asynchronous Random Beacon without Threshold Cryptography
+AU  - Akhil Bandarupalli
+AU  - Adithya Bhat
+AU  - Saurabh Bagchi
+AU  - Aniket Kate
+AU  - Michael K. Reiter
+PY  - 2024
+T2  - CCS '24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3658644.3670326
+UR  - https://doi.org/10.1145/3658644.3670326
+ER  -
+
+TY  - JOUR
+TI  - Secure Delegation of Isogeny Computations and Cryptographic Applications
+AU  - Robi Pedersen
+AU  - Osmanbey Uzunkol
+PY  - 2019
+T2  - CCSW'19: Proceedings of the 2019 ACM SIGSAC Conference on Cloud Computing Security Workshop
+DO  - 10.1145/3338466.3358913
+UR  - https://doi.org/10.1145/3338466.3358913
+ER  -
+
+TY  - JOUR
+TI  - Reconstructing Chameleon Hash: Full Security and the Multi-Party Setting
+AU  - Kwan Yin Chan
+AU  - Liqun Chen
+AU  - Yangguang Tian
+AU  - Tsz Hon Yuen
+PY  - 2024
+T2  - ASIA CCS '24: Proceedings of the 19th ACM Asia Conference on Computer and Communications Security
+DO  - 10.1145/3634737.3656291
+UR  - https://doi.org/10.1145/3634737.3656291
+ER  -
+
+TY  - JOUR
+TI  - Security Challenges Posed by Quantum Computing on Emerging Technologies
+AU  - Abdelrahman Abuarqoub
+PY  - 2021
+T2  - ICFNDS '20: Proceedings of the 4th International Conference on Future Networks and Distributed Systems
+DO  - 10.1145/3440749.3442651
+UR  - https://doi.org/10.1145/3440749.3442651
+ER  -
+
+TY  - JOUR
+TI  - Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions
+AU  - Diego F. Aranha
+AU  - Carsten Baum
+AU  - Kristian GjΓΈsteen
+AU  - Tjerand Silde
+PY  - 2023
+T2  - CCS '23: Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3576915.3616683
+UR  - https://doi.org/10.1145/3576915.3616683
+ER  -
+
+TY  - JOUR
+TI  - Improving the Performance of Blockchain Based Digital Contract Using Niederreiter Method
+AU  - Edy Santoso
+AU  - Ari Moesriami Barmawi
+PY  - 2020
+T2  - ITCC '20: Proceedings of the 2020 2nd International Conference on Information Technology and Computer Communications
+DO  - 10.1145/3417473.3417477
+UR  - https://doi.org/10.1145/3417473.3417477
+ER  -
+
+TY  - JOUR
+TI  - Practical, Round-Optimal Lattice-Based Blind Signatures
+AU  - Shweta Agrawal
+AU  - Elena Kirshanova
+AU  - Damien StehlΓ©
+AU  - Anshu Yadav
+PY  - 2022
+T2  - CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3548606.3560650
+UR  - https://doi.org/10.1145/3548606.3560650
+ER  -
+
+TY  - JOUR
+TI  - Key Compression for Isogeny-Based Cryptosystems
+AU  - Reza Azarderakhsh
+AU  - David Jao
+AU  - Kassem Kalach
+AU  - Brian Koziel
+AU  - Christopher Leonardi
+PY  - 2016
+T2  - AsiaPKC '16: Proceedings of the 3rd ACM International Workshop on ASIA Public-Key Cryptography
+DO  - 10.1145/2898420.2898421
+UR  - https://doi.org/10.1145/2898420.2898421
+ER  -
+
+TY  - JOUR
+TI  - Transforming Open Radio Access Networks with Multi-Layered Architecture: A Decentralized Approach
+AU  - Engin Zeydan
+AU  - Luis Blanco
+AU  - Josep Mangues-Bafalluy
+AU  - Yekta Turk
+AU  - Abdullah Aydeger
+PY  - 2025
+T2  - Distributed Ledger Technologies: Research and Practice (DLT), Just Accepted
+DO  - 10.1145/3770919
+UR  - https://doi.org/10.1145/3770919
+ER  -
+
+TY  - JOUR
+TI  - Refining Identification Scheme based on Isomorphism of Polynomials with Two Secrets
+AU  - Bagus Santoso
+PY  - 2016
+T2  - AsiaPKC '16: Proceedings of the 3rd ACM International Workshop on ASIA Public-Key Cryptography
+DO  - 10.1145/2898420.2898423
+UR  - https://doi.org/10.1145/2898420.2898423
+ER  -
+
+TY  - JOUR
+TI  - FIN: Practical Signature-Free Asynchronous Common Subset in Constant Time
+AU  - Sisi Duan
+AU  - Xin Wang
+AU  - Haibin Zhang
+PY  - 2023
+T2  - CCS '23: Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security
+DO  - 10.1145/3576915.3616633
+UR  - https://doi.org/10.1145/3576915.3616633
+ER  -
+
+TY  - JOUR
+TI  - Applications of Distributed Ledger Technologies to the Internet of Things
+AU  - Qingyi Zhu
+AU  - Seng W. Loke
+AU  - Rolando Trujillo-Rasua
+AU  - Frank Jiang
+AU  - Yong Xiang
+PY  - 2019
+T2  - ACM Computing Surveys (CSUR), Volume 52, Issue 6
+DO  - 10.1145/3359982
+UR  - https://doi.org/10.1145/3359982
+ER  -
+
+TY  - JOUR
+TI  - Security in a Complex Non-deterministic World
+AU  - Joseph James Salvo
+PY  - 2021
+T2  - AMSec '21: Proceedings of the 2021 Workshop on Additive Manufacturing (3D Printing) Security
+DO  - 10.1145/3462223.3485597
+UR  - https://doi.org/10.1145/3462223.3485597
+ER  -
+
+TY  - JOUR
+TI  - The Impact of Quantum Computing on Security in Emerging Technologies
+AU  - Abdelrahman Abuarqoub
+AU  - Simak Abuarqoub
+AU  - Ahmad Alzu'bi
+AU  - Ammar Muthanna
+PY  - 2022
+T2  - ICFNDS '21: Proceedings of the 5th International Conference on Future Networks and Distributed Systems
+DO  - 10.1145/3508072.3508099
+UR  - https://doi.org/10.1145/3508072.3508099
+ER  -
+

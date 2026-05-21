@@ -1,0 +1,42 @@
+﻿{
+  "all_source_unique_records": 12291,
+  "carried_scopus_records": 2566,
+  "new_records_screened": 9725,
+  "blank_decisions": 0,
+  "overall_decisions": {
+    "Exclude": 11493,
+    "Include": 680,
+    "Maybe": 118
+  },
+  "new_record_decisions": {
+    "Exclude": 9657,
+    "Maybe": 45,
+    "Include": 23
+  },
+  "overall_full_text_candidates": 798,
+  "overall_excluded": 11493,
+  "overall_exclusion_reasons": {
+    "E2 - No substantive quantum/PQC threat or migration focus": 5681,
+    "E1 - No substantive blockchain/DLT focus": 5180,
+    "E10 - Insufficient metadata/full text unavailable": 331,
+    "E5 - Cryptographic primitive not mapped to blockchain": 193,
+    "E7 - No migration, trade-off, or design-pattern relevance": 53,
+    "E4 - Quantum-only or QKD-only without blockchain migration": 43,
+    "E3 - Generic blockchain/cybersecurity only": 12
+  },
+  "candidate_databases": {
+    "Scopus; IEEE Xplore": 295,
+    "Scopus": 281,
+    "Scopus; SpringerLink": 136,
+    "IEEE Xplore": 39,
+    "SpringerLink": 27,
+    "Scopus; ACM Digital Library": 18,
+    "ACM Digital Library": 2
+  },
+  "new_candidate_databases": {
+    "IEEE Xplore": 39,
+    "SpringerLink": 27,
+    "ACM Digital Library": 2
+  }
+}
+
