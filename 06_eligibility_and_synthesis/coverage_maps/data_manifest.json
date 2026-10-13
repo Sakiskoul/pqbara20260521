@@ -1,0 +1,29 @@
+{
+  "data_version": "2026-10-13",
+  "core_records": 69,
+  "external_comparators": 29,
+  "self_description_rows": 1,
+  "core_full_text_basis": 46,
+  "core_metadata_basis": 23,
+  "domain_identifiers": [
+    "D1",
+    "D2",
+    "D3",
+    "D4",
+    "D5",
+    "D6"
+  ],
+  "files_sha256": {
+    "compute_multilayer_table.py": "56c4b219e0cd76624bc50904857ab3d3aa5282d40cb7d8daf975d6232572e560",
+    "multilayer_coverage_coding.csv": "d9020d050d96efbe0ea015d3fca56de90374c98798c236661cac2828d39e13ee",
+    "multilayer_coverage_summary.csv": "69b9724c1b1c9f0a683e8478de0c90f6a2d8f1f64b198fea92b0fa44e82bdd66",
+    "multilayer_coverage_summary.json": "12d810ade487b15faee0c535b7de4721bb453c819009c257951da81e51b862a9",
+    "README.md": "fb01a17a14c3e8f286e7a0d2e68ea77ccb87f9a6421f85c53a09bd53994c90a6",
+    "reference_role_audit.csv": "fe125e8651150bba1ed0c569e74a2810186f3ee680fe22f0179e0d1e7929d2ab",
+    "reference_role_summary.csv": "a96eb4e7d9c9640ae801cbe44f7e08cc55ee1f6ce010f228fa48879b181f7987",
+    "references.bib": "064c0ea4bb13bc916c1c34c49b480752ba6b74ace1bc93c7e651ec9457c422ae",
+    "table1_coverage_decisions.csv": "11fa229e887a369eef602144586125f1b208abe07811ed9c6bf059086fbb028e",
+    "Table1_provenance_audit.md": "af08772800339cb06a5c071b2825524f6dd3aba5132190b6c86d9511db759e6c",
+    "targeted_layer_provenance.csv": "c7cf6fd0577c6d04f6a1bc5fcfc2a2f904d97e42b49aa4fcedc6323eb7d4fb78"
+  }
+}
