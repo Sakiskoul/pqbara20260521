@@ -1,0 +1,7 @@
+Domain,Label,Primary_n_of_69,Substantive_documented_n_of_69,Any_documented_n_of_69,Unknown_n_of_69,Full_text_denominator,Full_text_substantive_n,Full_text_any_n,Limited_text_substantive_n,Limited_text_any_n,Missingness_only_max_any_n,Missingness_only_max_substantive_n
+D1_TX,Transaction / wallet / account,14,28,36,13,46,20,26,8,10,49,41
+D2_VAL,Validator / consensus / governance,17,27,40,14,46,18,31,9,9,54,41
+D3_NODE,Node trust / PKI / channels,3,8,25,18,46,4,20,4,5,43,26
+D4_SC,Smart contracts / DeFi / bridges,4,10,19,21,46,9,17,1,2,40,31
+D5_ZK,ZK / privacy / verifiable computation,5,13,20,21,46,11,18,2,2,41,34
+D6_EVID,Evidence / audit / archival,8,9,11,20,46,7,8,2,3,31,29
